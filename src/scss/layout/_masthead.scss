@@ -1,0 +1,45 @@
+.masthead {
+	min-height: 100vh;
+}
+.logo-main{
+	height:80px;
+}
+#intro{
+	padding-top: 80px;
+	padding-bottom: 80px;
+
+	p{
+		padding:0 40px;
+		margin:50px auto;
+		color:$light-gray;
+		line-height: 1.5rem;
+	}
+}
+#quicklinks{
+
+	.quick-link{
+		padding:15px;
+		box-shadow: 0 0 5px 1px rgba(0,0,0,0.1);
+		border-radius: 5px;
+		margin:15px auto;
+		display: block;
+		color:$black;
+		font-size:12px;
+		color:$light-gray;
+		background: $white;
+		text-decoration: none;
+
+		b{
+			color:$black;
+			font-family: $headings-font-family;
+			font-size: 12px;
+			display: block;
+		}
+
+		&:hover b{
+			text-decoration: underline;
+		}
+	}
+}
+@include media-breakpoint-up(lg) {
+}

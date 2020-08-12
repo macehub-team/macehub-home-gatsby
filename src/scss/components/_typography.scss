@@ -1,0 +1,22 @@
+.section-title{
+  font-size: 35px;
+  font-weight: 300;
+  color: black;
+
+  span.title-end{
+    font-weight: 600;    
+  }
+  
+  *:after {
+    content:"";
+    display: block;
+    max-width: 150px;
+    width: 50%;
+    margin-top: 6px;
+    height: 4px;
+    border-radius: 4px;
+    background:#1C96D040;
+  }
+  
+
+}
