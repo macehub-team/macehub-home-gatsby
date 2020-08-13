@@ -14,10 +14,11 @@ export default function OppurtunitiesInMace() {
       <Container>
         <SectionTitle title="Opportunities In " titleEnd="Mace" marginBottom="4rem" />
         <Row>
-          {OpportunitiesData.opportunities.map(data=>
-            <Col lg={3} md={6}>
-              <OpportunityBox {...data} />
-            </Col>
+          {OpportunitiesData.opportunities.map(data=>{
+              return (<Col lg={3} md={6}>
+                <OpportunityBox {...data} />
+              </Col>);
+            }
           )}
         </Row>
       </Container>
