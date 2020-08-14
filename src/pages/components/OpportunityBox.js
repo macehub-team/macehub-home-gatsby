@@ -1,7 +1,6 @@
 import React from "react"
 
 export default function OpportunityBox(props) {
-    if(props.details == null || props.links == null ) return null;
     return (
         <div className="opportunity-box">
             <div className="d-flex align-items-center">
@@ -15,7 +14,7 @@ export default function OpportunityBox(props) {
                 {props.description}
             </p>            
             {
-                props.details.map(detail=>{
+                (props.details ?? []).map(detail=>{
                     return ([
                         <h5>
                             {detail.title} &nbsp;
@@ -28,7 +27,7 @@ export default function OpportunityBox(props) {
             }
             <div className="opp-links">
                 {
-                    props.links.map(item=>
+                    (props.links ?? []).map(item=>
                         <OpportunityBoxLink
                             title={item.title}
                             subTitle={item.subTitle}
