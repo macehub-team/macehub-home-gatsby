@@ -66,3 +66,5 @@ A quick look at the top level files and directories inside `src/`.
 2.  **Modifiying Appearance** : CSS files are complied using SASS compiler from the source `src/scss/macehub.scss` and it's sub sources. Inorder to change the appearances, modify the react script at  `src/pages/`
 
 3.  **Creating New Pages** : Use gatsby api **`createPages`** or add react components to `src/pages/`. For additional information https://www.gatsbyjs.com/docs/creating-and-modifying-pages/
+
+4.  **Images and Static Files** : Place the files inside `./static`. 
