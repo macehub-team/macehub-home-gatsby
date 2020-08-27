@@ -157,6 +157,89 @@ opportunities:
         subTitle: "@ieeemace"
         icon: "fab fa-instagram"
         link: "#link"
+  
+  # TEDxMACE
+  - title: TEDxMACE
+    thumb: img/opp/ieee.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+  
+  # MACE MUN
+  - title: MACE MUN
+    subTitle: Model United Nations
+    thumb: img/opp/ieee.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+  
+  # TNP
+  - title: TNP MACE
+    subTitle: Training and Placement Cell
+    thumb: img/opp/ieee.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
 
   
 
@@ -236,56 +319,5 @@ opportunities:
         link: "#link"
 
   
-  
-  # TEDxMACE
-  - title: TEDxMACE
-    thumb: img/opp/ieee.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-    details:
-      - title: Co-Ordinators,
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
-
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
-
-
-
-  
-  # MACE MUN
-  - title: MACE MUN
-    subTitle: Model United Nations
-    thumb: img/opp/ieee.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-    details:
-      - title: Co-Ordinators,
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
-
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
-
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
   
