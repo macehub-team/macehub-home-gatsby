@@ -47,9 +47,9 @@ team:
     
   - name: Beena Vinod
     title: Contributer
-    photo: img/team/ameer.jpg
+    photo: img/team/beena.jpg
     batch: CSE 2K21
-    linkedin: 'https://in.linkedin.com/in/beena-vinod-61a958144'
+    # linkedin: 'https://in.linkedin.com/in/beena-vinod-61a958144'
 
 
   - name: Sithara CS
@@ -60,6 +60,6 @@ team:
 
   - name: Madhav Sunil
     title: Contributer
-    photo: img/team/sithara.jpg
+    photo: img/team/madhav.jpg
     batch: CSE 2K21
     linkedin: 'https://www.linkedin.com/in/madhav-sunil-1909431a1'
