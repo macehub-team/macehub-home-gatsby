@@ -6,7 +6,7 @@ import {Container, Row,Col} from 'react-bootstrap';
 import SectionTitle from './../components/SectionTitle.js'
 import OpportunityBox from './../components/OpportunityBox.js'
 
-import OpportunitiesData from './../../content/opportunities_of_mace.yml';
+import OpportunitiesData from './../content/opportunities_of_mace.yml';
 
 export default function OppurtunitiesInMace() {
   return (
