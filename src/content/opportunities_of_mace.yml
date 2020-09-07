@@ -31,7 +31,7 @@ opportunities:
   - title: IEDC MACE
     subTitle: Innovation and Entrepreneurship Development Cell
     thumb: img/opp/iedc.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "IEDC is a platform that are set up with an aim to provide students an opportunity to experiment and innovate. IEDCs works as the first launch pad for a student’s entrepreneurial journey and provide them with access to cutting edge technology, world class infrastructure, high quality mentorship, early risk capital and global exposure."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -57,7 +57,7 @@ opportunities:
   - title: NSS MACE
     subTitle: National Service Scheme
     thumb: img/opp/nssmace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: " The NSS units of MACE strive to achieve exactly this: to mould a generation of efficient and hard working Social Engineers. It helps the students to bring in some principles and philosophies in their lives, to help them become mature and enlightened citizens."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -82,7 +82,7 @@ opportunities:
   # THE MACE POST - Need mail and content
   - title: THE MACE POST
     thumb: img/opp/tmp.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The MACEPOST is an ambitious initiative taken up by the students of MACE with two main aims in mind. One is to bring in \"Opportunities\" and other to spread out \"Information\" that is available in MACE. "
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -156,7 +156,7 @@ opportunities:
   # DOM - need content
   - title: Designers of MACE
     thumb: img/opp/dom.png
-    description: "DOM is an intiative to bring together the Designers of MACE. It is organized with a motive to guide aspiring designers, review peers work and help them become something more."
+    description: "DOM is an intiative to bring together the Designers of MACE. It is organized with a motive to guide aspiring designers, review peers work, innovate their skills and help each other become something more."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -179,7 +179,7 @@ opportunities:
   - title: DSC MACE
     subTitle: Developer Student Club
     thumb: img/opp/dsc.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "Developer Student Clubs are community groups for students interested in Google developer technologies. Here students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -196,7 +196,7 @@ opportunities:
   - title: TNP MACE
     subTitle: Training and Placement Cell
     thumb: img/opp/tnp.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "TNP MACE is an integral part of MACE Life. It helps our students get trained sufficiently to appear for job interview, also they brings us the job opportunities that are available for us from around the globe."
     details:
       - title: Staff in Charge,
         icon: "fa fa-user-friends"
@@ -271,7 +271,7 @@ opportunities:
   - title: AISA MACE
     subTitle: Aerospace Interested Students Association
     thumb: img/opp/aisamace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -298,7 +298,7 @@ opportunities:
   # IOT Club - Need content
   - title: IoT Club
     thumb: img/opp/iotmace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Internet Of Things Club is a place where you can find the latest information around The Internet Of Things. From news, ideas where the IOT can take us, to examples from everyday applications."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -325,7 +325,7 @@ opportunities:
   - title: Fab Lab
     subTitle: Fabrication Lab
     thumb: img/opp/fablab.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "A Fab Lab, or digital fabrication laboratory, is a place to create, to mentor and to invent: a place for learning and innovation. Fab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone to make (almost) anything."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -350,7 +350,7 @@ opportunities:
   # Music Club - Complete needed
   - title: Music Club
     thumb: img/opp/musicclub.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The club aims to explore the arena of music and strengthen the artistic talents of students. It helps the students to retain their own individual love of music and also enrich their own lives and lives of others."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
