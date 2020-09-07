@@ -27,7 +27,7 @@ opportunities:
         link: "#link"
 
 
-  # IEDC MACE
+  # IEDC MACE - Need content and mail
   - title: IEDC MACE
     subTitle: Innovation and Entrepreneurship Development Cell
     thumb: img/opp/iedc.png
@@ -35,11 +35,11 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Shibija A ( S7  ECE ) , Aswinraj K ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 80865 35843\nieeemace@gmail.com"
 
     links:
       - title: Official Website
@@ -53,7 +53,7 @@ opportunities:
         link: "https://www.instagram.com/iedc_mace/"
 
 
-  # NSS MACE
+  # NSS MACE - need content
   - title: NSS MACE
     subTitle: National Service Scheme
     thumb: img/opp/nssmace.png
@@ -61,11 +61,11 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Abhijith P S, Bonia Benny"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 93834 42178\nnss@mace.ac.in"
 
     links:
       - title: Facebook Page
@@ -79,14 +79,14 @@ opportunities:
         link: "https://www.instagram.com/nss.mace"
 
 
-  # THE MACE POST
+  # THE MACE POST - Need mail and content
   - title: THE MACE POST
     thumb: img/opp/tmp.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Christle Charles ( S7  Mechanical ) , Shibija A ( S7  ECE )"
+        data: "Christle Charls ( S7  Mechanical ) , Shibija A ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
@@ -152,18 +152,19 @@ opportunities:
       #   icon: "fa fa-globe-americas"
       #   link: "https://ieee.macehub.in"
 
-  # DOM
+
+  # DOM - need content
   - title: Designers of MACE
     thumb: img/opp/dom.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Amina Nizam ( S7  CSE ) , Jovel Shaju ( S7  CSE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 94001 91220\n"
 
     links:
       - title: Instagam Page
@@ -173,7 +174,7 @@ opportunities:
 
 
 
-  # DSC Mace
+  # DSC Mace -Need Content
   - title: DSC MACE
     subTitle: Developer Student Club
     thumb: img/opp/dsc.png
@@ -181,41 +182,28 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Jestin Roy ( S5  EEE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 99113 43474\n"
 
 
 
 
-  # # Mozilla MACE
-  # - title: Mozilla Club
-  #   thumb: img/opp/mozilla.png
-  #   description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-  #   details:
-  #     - title: Co-Ordinators,
-  #       icon: "fa fa-user-friends"
-  #       data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
-  #     - title: "Contact Details"
-  #       icon: "fa fa-phone-alt"
-  #       data: "+91 99887 76655\nieeemace@gmail.com"
-
-  # TNP
+  # TNP - Need content and contact
   - title: TNP MACE
     subTitle: Training and Placement Cell
     thumb: img/opp/tnp.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
-      - title: Co-Ordinators,
+      - title: Staff in Charge,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Prof. Biju Skaria"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 99887 76655\ntnp.macepost@gmail.com"
 
     links:
       - title: Official Website
@@ -251,7 +239,7 @@ opportunities:
 
 
   
-  # MACE MUN
+  # MACE MUN - need mail
   - title: MACE MUN
     subTitle: Model United Nations
     thumb: img/opp/mun.png
@@ -263,7 +251,7 @@ opportunities:
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99618 19848\nieeemace@gmail.com"
+        data: "+91 99618 19848\n"
 
     links:
       - title: Official Website
@@ -278,7 +266,7 @@ opportunities:
 
 
   
-  # AISA
+  # AISA - Feny Roy
   - title: AISA MACE
     subTitle: Aerospace Interested Students Association
     thumb: img/opp/aisamace.png
@@ -306,33 +294,33 @@ opportunities:
 
 
   
-  # IOT Club
+  # IOT Club - Need content
   - title: IoT Club
     thumb: img/opp/iotmace.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Able Varghese ( S7  ECE ) , Able Varghese ( S7  ECE )"
+        data: "Able Varghese ( S7  ECE ) , Binil V Jacob ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 83048 71107\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+      - title: Facebook Page
+        subTitle: "@IoTMACE"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/IoTMACE/"
 
 
 
-# FAB LAB
+# FAB LAB - Need content
   - title: Fab Lab
     subTitle: Fabrication Lab
     thumb: img/opp/fablab.png
@@ -340,32 +328,32 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Binii V Jacob ( S7  ECE ) , Aswinraj K ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 80865 35843\n"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
   
-  # Music Club
+  # Music Club - Complete needed
   - title: Music Club
     thumb: img/opp/musicclub.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Kailas Narayan ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
@@ -384,7 +372,7 @@ opportunities:
 
 
 
-  # Dance Club
+  # Dance Club - complete needed
   - title: MACE Dance Club (MADc)
     thumb: img/opp/madc.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
@@ -411,59 +399,59 @@ opportunities:
 
 
 
-  # Quiz Club
+  # Quiz Club - Need content
   - title: Quiz Club
     thumb: img/opp/quiz.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Felix Palatty ( S7  ECE ) , Deepak Krishnan H ( S7  CSE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 98469 44487\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@macequizclub"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/macequizclub/"
 
 
 
   
-  # Debate Club
+  # Debate Club - Need Logo
   - title: Debate Club
     thumb: img/opp/nologo.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Kavith Viswanath ( S7  Mechanical ) , Feny Roy ( S7  CSE )"
+        data: "Kavith Viswanath ( S7  Mechanical ) , Christo George ( S7 Civil )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 99955 67971\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@macedebateclub"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/macedebateclub/"
         
 
-  # MACE Shutter Club
+  # MACE Shutter Club - Need cordinators, contact and content
   - title: MACE Shuter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
@@ -478,18 +466,18 @@ opportunities:
         data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      - title: Facebook Page
+        subTitle: "@maceshutterclub"
+        icon: "fa fa-globe-facebook"
+        link: "https://www.facebook.com/maceshutterclub"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@maceshutterclub"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/maceshutterclub/"
 
   
-  # Film Club
+  # Film Club - Need Full
   - title: Film Club
     thumb: img/opp/film.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
@@ -518,18 +506,18 @@ opportunities:
   
 
 
-  # Netx Club
+  # Netx Club - Need content and social liks(if any)
   - title: NetX Club
     thumb: img/opp/nologo.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 92074 50391\n"
 
     links:
       - title: Official Website
