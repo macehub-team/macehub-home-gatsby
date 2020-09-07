@@ -471,15 +471,15 @@ opportunities:
         data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@mace_dance_club"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/mace_dance_club/"
 
 
 
@@ -827,4 +827,3 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macebadmintonclub/"
 
-        
