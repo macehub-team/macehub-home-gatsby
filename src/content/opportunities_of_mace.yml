@@ -238,6 +238,61 @@ opportunities:
 
 
 
+  # TAKSHAK - Only social added
+  - title: Takshak
+    subTitle: Tech Fest
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    # details:
+    #   - title: Co-Ordinators,
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: takshak.in
+        icon: "fa fa-globe-americas"
+        link: "http://archive.macehub.in/takshak/19/"
+
+      - title: Instagam Page
+        subTitle: "@takshak19"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/takshak19/"
+
+
+
+
+
+  # SANSKRITI  - Only social added
+  - title: Sankriti
+    subTitle: Arts Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    # details:
+    #   - title: Co-Ordinators,
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: sanskritimace.in
+        icon: "fa fa-globe-americas"
+        link: "http://archive.macehub.in/sanskriti/20/"
+
+      - title: Instagam Page
+        subTitle: "@sanskriti.mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/sanskriti.mace/"
+
+
   
   # MACE MUN - need mail
   - title: MACE MUN
@@ -345,6 +400,35 @@ opportunities:
     #     icon: "fab fa-instagram"
     #     link: "#link"
 
+
+
+  
+  # DIVAAT - Only IG added
+  - title: Divaat MACE
+    subTitle: Fashion Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@divaat_mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/divaat_mace/"
+
+
   
   # Music Club - Complete needed
   - title: Music Club
@@ -451,7 +535,7 @@ opportunities:
         link: "https://www.instagram.com/macedebateclub/"
         
 
-  # MACE Shutter Club - Need cordinators, contact and content
+  # MACE Shutter Club - Need content
   - title: MACE Shuter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
@@ -459,11 +543,11 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Akshay Kasper ( S7  ECE ) , Ajay Saji ( S7  EEE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 81578 12758\n"
 
     links:
       - title: Facebook Page
@@ -636,7 +720,7 @@ opportunities:
 
 
 
-# FOOTBALL TEAM
+# FOOTBALL TEAM - Need logo and content
   - title: Football Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/nologo.png
@@ -644,22 +728,22 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Abdul Basith K ( S7  Mechanical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 96057 59659\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      - title: Facebook Page
+        subTitle: "@macefootballteam"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/macefootballteam/"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
@@ -717,7 +801,7 @@ opportunities:
 
 
 
-# BADMINTON TEAM
+# BADMINTON TEAM - Only IG added
   - title: Badminton Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/nologo.png
@@ -732,12 +816,12 @@ opportunities:
         data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@macebadmintonclub"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/macebadmintonclub/"
