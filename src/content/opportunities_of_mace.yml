@@ -242,7 +242,7 @@ opportunities:
   # TAKSHAK - Only social added
   - title: Takshak
     subTitle: Tech Fest
-    thumb: img/opp/nologo.png
+    thumb: img/opp/takshak.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     # details:
     #   - title: Co-Ordinators,
@@ -271,7 +271,7 @@ opportunities:
   # SANSKRITI  - Only social added
   - title: Sankriti
     subTitle: Arts Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/sanskriti.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     # details:
     #   - title: Co-Ordinators,
@@ -553,7 +553,7 @@ opportunities:
     links:
       - title: Facebook Page
         subTitle: "@maceshutterclub"
-        icon: "fa fa-globe-facebook"
+        icon: "fab fa-facebook"
         link: "https://www.facebook.com/maceshutterclub"
 
       - title: Instagam Page

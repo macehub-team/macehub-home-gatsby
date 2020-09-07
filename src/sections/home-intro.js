@@ -42,15 +42,23 @@ export default function HomeIntro() {
             <QuickLink 
               label = "Opportunities In MACE"
               subLabel = "Explore and join in extra curricular oppurtunities in our college."
-              href="#"
+              href="javascript:window.scrollTo({ behavior: 'smooth', top: document.getElementById('opps-in-mace').offsetTop })"
               thumb="img/quicklinks/opp.png"
+              thumbAlt="Opportunities In MACE"
+              /> 
+               
+            <QuickLink 
+              label = "Team Macehub"
+              subLabel = "The team who made the macehub dream true."
+              href="team"
+              thumb="img/quicklinks/team.jpg"
               thumbAlt="Opportunities In MACE"
               />    
 
             <QuickLink 
               label = "Contribute to Macehub"
               subLabel = "Hive your hand of help to this platform and our various activities."
-              href="#"
+              href="contribute"
               thumb="img/quicklinks/cont.png"
               thumbAlt="Contribute to Macehub"
               />    
