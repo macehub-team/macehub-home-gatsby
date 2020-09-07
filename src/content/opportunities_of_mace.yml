@@ -1,19 +1,19 @@
 title: Opportunities of Mace
 opportunities:
-  # IEEE MACE
+  # IEEE MACE - COMPLETE
   - title: IEEE MACE SB
     thumb: img/opp/ieee.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. IEEE MACE SB is a student branch chapter of IEEE with the same  aim. The collegiate club aims towards student proficiency and advancement  in latest cutting edge technologies and thereby enhancing the quality of life of themselves and the society. "
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Feny Roy ( S7  CSE ) , Salih Yoosaf (S7  ECE)"
         
       - title: Contact Details
         icon: "fa fa-phone-alt"
         data: |
-          +91 99887 76652
-          ieeemace@gmail.com
+          +91 99470 02404
+          sb.mace@ieee.org
 
     links:
       - title: Official Website
@@ -86,11 +86,11 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Christle Charles ( S7  Mechanical ) , Shibija A ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 70121 53502"
 
     links:
       - title: Official Website
@@ -105,44 +105,52 @@ opportunities:
   
  
 
-  # ASME MACE
+  # ASME MACE - COMPLETE
   - title: ASME MACE
     subTitle: American Society of Mechanical Engineers
     thumb: img/opp/asme.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "American Society of Mechanical Engineers is an american professional association that is spread over 150 countries. ASME MACE STUDENT SECTION  was initiated in the year 2019 under the advisory of Dr.Bobin Cherian , Ass. Prof.Along with its Student Executive committe"
     details:
     - title: Co-Ordinators,
       icon: "fa fa-user-friends"
-      data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+      data: "Ashin V Nazeer ( S5  Mechanical ) , Twinkle Abraham ( S3  Mechanical )"
       
     - title: "Contact Details"
       icon: "fa fa-phone-alt"
-      data: "+91 99887 76655\nieeemace@gmail.com"
+      data: "+91 94476 46104\nasme@mace.ac.in"
 
     links:
     - title: Official Website
       subTitle: asme.macehub.in
       icon: "fa fa-globe-americas"
-      link: "https://asme.macehub.in"
+      link: "https://asme.macehub.in/"
+
+    - title: Instagam Page
+      subTitle: "@asme_mace"
+      icon: "fab fa-instagram"
+      link: "https://www.instagram.com/asme_mace/?igshid=pij4ukbdnxo6"
 
 
   
-  # SAE MACE
+  # SAE MACE -COMPLETE
   - title: SAE MACE
-    subTitle: Society of Automotive Engineers
     thumb: img/opp/saemace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    subTitle: Society of Automotive Engineers
+    description: "A collegiate club providing a platform for students to get involved in various automobile and engineering related events, competitions and conventions to enhance their knowledge in the automotive field"
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Davis Jacob Thomas ( S7  Mechanicl ) , Allen Seby ( S7  Mechanical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 73564 02564\nsaemace@zohomail.in"
 
-   
-
+    links:
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
   # DOM
   - title: Designers of MACE
@@ -182,18 +190,18 @@ opportunities:
 
 
 
-  # DSC Mace
-  - title: Mozilla Club
-    thumb: img/opp/mozilla.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-    details:
-      - title: Co-Ordinators,
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+  # # Mozilla MACE
+  # - title: Mozilla Club
+  #   thumb: img/opp/mozilla.png
+  #   description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+  #   details:
+  #     - title: Co-Ordinators,
+  #       icon: "fa fa-user-friends"
+  #       data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+  #     - title: "Contact Details"
+  #       icon: "fa fa-phone-alt"
+  #       data: "+91 99887 76655\nieeemace@gmail.com"
 
   # TNP
   - title: TNP MACE
@@ -216,18 +224,18 @@ opportunities:
         link: "http://tnpmace.com/"
 
 
-  # TEDxMACE
+  # TEDxMACE - COMPLETE
   - title: TEDxMACE
     thumb: img/opp/tedx.png
     description: " Here, at TEDxMACE (a full-day conference), we bring you hand-picked stories of unconventionally extraordinary individuals who will showcase to you a world for not just what it is, but, for what it could be."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Davis Jacob Thomas ( S7  Mechanical ) , Mathews ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\ntedxmace@gmail.com"
+        data: "+91 79029 26321\ntedxmace@gmail.com"
 
     links:
       - title: Official Website
@@ -238,7 +246,7 @@ opportunities:
       - title: Instagam Page
         subTitle: "@tedxmace"
         icon: "fab fa-instagram"
-        link: "www.instagram.com/explore/tags/tedxmace/"
+        link: "https://www.instagram.com/tedxmace/"
 
 
 
@@ -247,15 +255,15 @@ opportunities:
   - title: MACE MUN
     subTitle: Model United Nations
     thumb: img/opp/mun.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "An educational simulation and/or academic competition in which students can learn about diplomacy, international relations, and the United Nations. MUN involves and teaches researching, public speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Kavith Viswanath ( S7  Mechanical ) , Akhil Sreekumar ( S7  Mechanical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 99618 19848\nieeemace@gmail.com"
 
     links:
       - title: Official Website
@@ -437,7 +445,7 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Kavith Viswanath ( S7  Mechanical ) , Feny Roy ( S7  CSE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
@@ -590,6 +598,140 @@ opportunities:
 # LITERARY AND ARTISANS CLUB
   - title: Duende MACE
     subTitle: Literary & Artisans Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+# CRICKET TEAM
+  - title: Cricket Team
+    # subTitle: Literary & Artisans Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+# FOOTBALL TEAM
+  - title: Football Team
+    # subTitle: Literary & Artisans Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+# VOLLEY BALL TEAM
+  - title: Volley Ball Team
+    # subTitle: Literary & Artisans Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+# BASKET BALL TEAM
+  - title: Basket Ball Team
+    # subTitle: Literary & Artisans Club
+    thumb: img/opp/nologo.png
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 99887 76655\nieeemace@gmail.com"
+
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
+
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
+
+
+
+# BADMINTON TEAM
+  - title: Badminton Team
+    # subTitle: Literary & Artisans Club
     thumb: img/opp/nologo.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
