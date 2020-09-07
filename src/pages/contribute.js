@@ -24,7 +24,6 @@ export default function Home() {
           Macehub is non profit. Also<br/>
           <br/><br/>
           If you wish to contribute, please inform us through <a href="mailto:info@macehub.in">info@macehub.in</a>
-          
         </p>
       </Container>
     </section>
