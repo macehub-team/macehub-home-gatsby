@@ -1,0 +1,65 @@
+title: Macehub Team
+team:
+  - name: Mathew Varghese
+    title: Co Founder
+    photo: img/team/mathew.jpg
+    batch: ECE 2K19
+    linkedin: 'https://www.linkedin.com/in/mathewvarghesemanu'
+
+  - name: Shameel Kadannamanna
+    title: Co Founder
+    photo: img/team/shameel.jpg
+    batch: CSE 2K21
+    linkedin: 'https://www.linkedin.com/in/shameel-kadannamanna/'
+
+
+  - name: Kiran Johns
+    title: Core Member
+    photo: img/team/kiran.jpg
+    batch: CSE 2K22
+    linkedin: 'https://www.linkedin.com/in/kiranjohns'
+
+  - name: Melvin Thomans
+    title: Core Member
+    photo: img/team/melvin.jpg
+    batch: CSE 2K23
+    linkedin: 'https://www.linkedin.com/in/melvin-thomas-6aa143198'
+
+  - name: Feny Roy
+    title: Core Member
+    photo: img/team/feny.jpg
+    batch: CSE 2K21
+    linkedin: 'https://www.linkedin.com/in/feny-roy'
+    
+  - name: Roshan R
+    title: Core Member
+    photo: img/team/roshan.jpg
+    batch: CSE 2K23
+    linkedin: 'https://www.linkedin.com/in/roshan-r-268734156/'
+
+
+  - name: Ameer Fayis
+    title: Chief Contributer
+    photo: img/team/ameer.jpg
+    batch: ECE 2K19
+    linkedin: 'https://www.linkedin.com/in/ameer-fayiz-kaithakath-b283b27b'
+
+    
+  - name: Beena Vinod
+    title: Contributer
+    photo: img/team/beena.jpg
+    batch: CSE 2K21
+    # linkedin: 'https://in.linkedin.com/in/beena-vinod-61a958144'
+
+
+  - name: Sithara CS
+    title: Contributer
+    photo: img/team/sithara.jpg
+    batch: CSE 2K21
+    linkedin: 'https://www.linkedin.com/in/sithara-sajith'
+
+  - name: Madhav Sunil
+    title: Contributer
+    photo: img/team/madhav.jpg
+    batch: CSE 2K21
+    linkedin: 'https://www.linkedin.com/in/madhav-sunil-1909431a1'
