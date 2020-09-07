@@ -408,15 +408,15 @@ opportunities:
   - title: Divaat MACE
     subTitle: Fashion Club
     thumb: img/opp/nologo.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Fashion Club is a place for people to gather together who are interested in learning and sharing about how fashion, in all its facets, does exactly that. They participate in competitions around and train their members to be strong personnels."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Santra Elizebeth roy ( S7  Mechanical ) , Deepak Krishnan ( S7  ESE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 81398 93209"
 
     links:
       # - title: Official Website
@@ -460,7 +460,7 @@ opportunities:
   # Dance Club - complete needed
   - title: MACE Dance Club (MADc)
     thumb: img/opp/madc.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The dance club will provide an opportunity to better the dancer in students through constant engagement and mentoring. The objective is to pick the best of dancers and form an efficient dance team, that can perform in various ocaasions within the college and also take part in events outside college."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -487,7 +487,7 @@ opportunities:
   # Quiz Club - Need content
   - title: Quiz Club
     thumb: img/opp/quiz.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The aim of the club is to inculcate among students a fondness for general knowledge and enhance their skills in academic, analytical abilities, quantitative reasoning, etc. and motivate them to bring themselves up to date with the current affairs of national and international importance."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -514,7 +514,7 @@ opportunities:
   # Debate Club - Need Logo
   - title: Debate Club
     thumb: img/opp/debateclub.png
-    description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess."
+    description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess. Words are the sword, and knowledge make the sword sharper. Debate club sharpenes the words of its members by giving them experience and exposure."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -540,7 +540,7 @@ opportunities:
   - title: MACE Shuter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "MACE Shutter Clubs focuses on bringing up the skills behind cameras, both in still images and video capture. The club members is given privileges of covering the events happening in MACE. They are able to get the guidance of experieced peers in their club life."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -565,7 +565,7 @@ opportunities:
   # Film Club - Need Full
   - title: Film Club
     thumb: img/opp/film.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Film Club is having a view to conduct film related awareness among its members. The activity of the Film Club is to draw students towards an active involvement in the Club through continued activities. The events are intended to expand their knowledge in the field of cinematography and associated science."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -592,54 +592,54 @@ opportunities:
 
 
   # Netx Club - Need content and social liks(if any)
-  - title: NetX Club
-    thumb: img/opp/netxmace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-    details:
-      - title: Co-Ordinators,
-        icon: "fa fa-user-friends"
-        data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
+  #- title: NetX Club
+  #  thumb: img/opp/netxmace.png
+  #  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+  #  details:
+  #    - title: Co-Ordinators,
+  #      icon: "fa fa-user-friends"
+  #      data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 92074 50391\n"
+  #    - title: "Contact Details"
+  #      icon: "fa fa-phone-alt"
+  #      data: "+91 92074 50391\n"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+  #  links:
+  #    - title: Official Website
+  #      subTitle: ieee.macehub.in
+  #      icon: "fa fa-globe-americas"
+  #      link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+  #   - title: Instagam Page
+  #      subTitle: "@ieeemace"
+  #      icon: "fab fa-instagram"
+  #      link: "#link"
 
 
 # CyclingClub
   - title: Cycling Club
 
     thumb: img/opp/cyclingclub.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The cycling club is a society for cyclists. Here they plan cycling trips around the places. The green future with healthy mates are one of the visions put forward by the club. Started few years back there is many aspirations for its members."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Mohammed Muhsin ( S7  CSE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 79948 53790"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+  #  links:
+  #    - title: Official Website
+  #      subTitle: ieee.macehub.in
+  #      icon: "fa fa-globe-americas"
+  #      link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+  #    - title: Instagam Page
+  #      subTitle: "@ieeemace"
+  #      icon: "fab fa-instagram"
+  #      link: "#link"
 
 
 
