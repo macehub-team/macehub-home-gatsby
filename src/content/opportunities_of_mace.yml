@@ -512,7 +512,7 @@ opportunities:
   
   # Debate Club - Need Logo
   - title: Debate Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/debateclub.png
     description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess."
     details:
       - title: Co-Ordinators,
@@ -592,7 +592,7 @@ opportunities:
 
   # Netx Club - Need content and social liks(if any)
   - title: NetX Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/netxmace.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -618,7 +618,7 @@ opportunities:
 # CyclingClub
   - title: Cycling Club
 
-    thumb: img/opp/nologo.png
+    thumb: img/opp/cyclingclub.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -644,7 +644,7 @@ opportunities:
 
 # AERO CLUB
   - title: Aero Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/aeroclub.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -670,7 +670,7 @@ opportunities:
 # LITERARY AND ARTISANS CLUB
   - title: Duende MACE
     subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/duendemace.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -696,7 +696,7 @@ opportunities:
 # CRICKET TEAM
   - title: Cricket Team
     # subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/cricket.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -723,7 +723,7 @@ opportunities:
 # FOOTBALL TEAM - Need logo and content
   - title: Football Team
     # subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/football.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -750,7 +750,7 @@ opportunities:
 # VOLLEY BALL TEAM
   - title: Volley Ball Team
     # subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/volleyball.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -777,7 +777,7 @@ opportunities:
 # BASKET BALL TEAM
   - title: Basket Ball Team
     # subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/basketball.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
@@ -804,7 +804,7 @@ opportunities:
 # BADMINTON TEAM - Only IG added
   - title: Badminton Team
     # subTitle: Literary & Artisans Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/badmintonteam.png
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
     details:
       - title: Co-Ordinators,
