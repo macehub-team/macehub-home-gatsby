@@ -3,8 +3,8 @@ import { Helmet } from "react-helmet"
 
 import './../scss/macehub.scss';
 
-import HomeIntro from './sections/home-intro.js';
-import OppurtunitiesInMace from './sections/oppurtunities-in-mace.js';
+import HomeIntro from './../sections/home-intro.js';
+import OppurtunitiesInMace from './../sections/oppurtunities-in-mace.js';
 
 
 export default function Home() {
