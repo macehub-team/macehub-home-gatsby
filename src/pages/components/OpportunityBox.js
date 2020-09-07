@@ -4,7 +4,7 @@ export default function OpportunityBox(props) {
     return (
         <div className="opportunity-box">
             <div className="d-flex align-items-center">
-                <img src={props.thumb} className="opp-thumb" alt={props.title}/>
+                <img src={props.thumb} className="opp-thumb" alt={props.title} width={60}/>
                 <div>
                     <h4 className="opp-title">{props.title}</h4>
                     <h6 className="opp-sub-title">{props.subTitle}</h6>
