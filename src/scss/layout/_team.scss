@@ -1,0 +1,60 @@
+#team-macehub{
+    background-color: #F9F9F9;
+}
+.team-member{
+    display: block;
+    background-color: #FFFFFF;
+    height: 280px;
+    text-align: center;
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    padding: 30px 0;
+    margin-bottom: 30px;
+
+    .team-member-photo{
+        width: 120px;
+        height: 120px;
+        display: block;
+        overflow: hidden;
+        margin: 0 auto 15px auto;
+        border-radius: 50%;
+
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+    .team-member-name{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding:0 15%;
+        font-size: 15px;
+        font-weight: 500;
+        color: black;
+        height: 40px;
+    }
+    .team-member-title{
+        display: block;
+        padding:0 15%;
+        font-size: 14px;
+        font-weight: 500;
+        color:#2784af;
+    }
+    .team-member-batch{
+        display: block;
+        padding:0 15%;
+        font-size: 13px;
+        font-weight: 400;
+        color:#454545;
+    }
+    .team-member-linkedin{
+        position: absolute;
+        top: 10px;
+        right: 30px;
+        font-size: 1.2em;
+    }
+    
+}
