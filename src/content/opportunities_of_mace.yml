@@ -693,7 +693,7 @@ opportunities:
         link: "#link"
 
 
-# CRICKET TEAM
+# CRICKET TEAM - Need content
   - title: Cricket Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/cricket.png
@@ -701,22 +701,22 @@ opportunities:
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Amar ( S7  Mechanical ) , Raseen ( S7  Civil )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+        data: "+91 94476 92275\n"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
@@ -825,3 +825,5 @@ opportunities:
         subTitle: "@macebadmintonclub"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macebadmintonclub/"
+
+        
