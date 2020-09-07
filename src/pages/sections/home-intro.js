@@ -12,7 +12,7 @@ export default function HomeIntro() {
           <Col md={6} className="text-center" id="intro">
             <img src="img/logo.png" className="logo-main" alt="Logo"/>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sodales dui. Nulla in egestas magna. Fusce rhoncus auctor lacus in interdum. Proin quam nulla, placerat id metus sit amet, suscipit ultrices ante. Aenean ut vestibulum dolor.
+            A platform initiative for effective co-ordinations of clubs and events at campuses. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sodales dui. Nulla in egestas magna. Fusce rhoncus auctor lacus in interdum.
             </p>
             <span className="star-break"></span>
             <a href="mailto:info@macehub.in" className="text-dark">info@macehub.in</a>
