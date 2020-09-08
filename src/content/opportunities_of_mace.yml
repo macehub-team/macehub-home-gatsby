@@ -1,6 +1,6 @@
 title: Opportunities of Mace
 opportunities:
-  # IEEE MACE - COMPLETE
+  # IEEE MACE - Last Updated 7 September 2020
   - title: IEEE MACE SB
     thumb: img/opp/ieee.png
     description: "IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity. IEEE MACE SB is a student branch chapter of IEEE with the same  aim. The collegiate club aims towards student proficiency and advancement  in latest cutting edge technologies and thereby enhancing the quality of life of themselves and the society. "
@@ -27,7 +27,7 @@ opportunities:
         link: "#link"
 
 
-  # IEDC MACE - Need content and mail
+  # IEDC MACE - Last Updated 7 September 2020
   - title: IEDC MACE
     subTitle: Innovation and Entrepreneurship Development Cell
     thumb: img/opp/iedc.png
@@ -53,7 +53,7 @@ opportunities:
         link: "https://www.instagram.com/iedc_mace/"
 
 
-  # NSS MACE - need content
+  # NSS MACE - Last Updated 7 September 2020
   - title: NSS MACE
     subTitle: National Service Scheme
     thumb: img/opp/nssmace.png
@@ -79,7 +79,7 @@ opportunities:
         link: "https://www.instagram.com/nss.mace"
 
 
-  # THE MACE POST - Need mail and content
+  # THE MACE POST - Need mail
   - title: THE MACE POST
     thumb: img/opp/tmp.png
     description: "The MACEPOST is an ambitious initiative taken up by the students of MACE with two main aims in mind. One is to bring in \"Opportunities\" and other to spread out \"Information\" that is available in MACE. "
@@ -105,7 +105,7 @@ opportunities:
   
  
 
-  # ASME MACE - COMPLETE
+  # ASME MACE - Last Updated 7 September 2020
   - title: ASME MACE
     subTitle: American Society of Mechanical Engineers
     thumb: img/opp/asme.png
@@ -132,7 +132,7 @@ opportunities:
 
 
   
-  # SAE MACE -COMPLETE
+  # SAE MACE - Last Updated 7 September 2020
   - title: SAE MACE
     thumb: img/opp/saemace.png
     subTitle: Society of Automotive Engineers
@@ -146,14 +146,14 @@ opportunities:
         icon: "fa fa-phone-alt"
         data: "+91 73564 02564\nsaemace@zohomail.in"
 
-    links:
+    # links:
       # - title: Official Website
       #   subTitle: ieee.macehub.in
       #   icon: "fa fa-globe-americas"
       #   link: "https://ieee.macehub.in"
 
 
-  # DOM - need content
+  # DOM - Last Updated 7 September 2020
   - title: Designers of MACE
     thumb: img/opp/dom.png
     description: "DOM is an intiative to bring together the Designers of MACE. It is organized with a motive to guide aspiring designers, review peers work, innovate their skills and help each other become something more."
@@ -175,7 +175,7 @@ opportunities:
 
 
 
-  # DSC Mace -Need Content
+  # DSC Mace - Last Updated 7 September 2020
   - title: DSC MACE
     subTitle: Developer Student Club
     thumb: img/opp/dsc.png
@@ -192,7 +192,7 @@ opportunities:
 
 
 
-  # TNP - Need content and contact
+  # TNP - Last Updated 7 September 2020
   - title: TNP MACE
     subTitle: Training and Placement Cell
     thumb: img/opp/tnp.png
@@ -213,7 +213,7 @@ opportunities:
         link: "http://tnpmace.com/"
 
 
-  # TEDxMACE - COMPLETE
+  # TEDxMACE - Last Updated 7 September 2020
   - title: TEDxMACE
     thumb: img/opp/tedx.png
     description: " Here, at TEDxMACE (a full-day conference), we bring you hand-picked stories of unconventionally extraordinary individuals who will showcase to you a world for not just what it is, but, for what it could be."
@@ -239,7 +239,7 @@ opportunities:
 
 
 
-  # TAKSHAK - Only social added
+  # TAKSHAK - Last Updated 7 September 2020
   - title: Takshak
     subTitle: Tech Fest
     thumb: img/opp/takshak.png
@@ -257,18 +257,18 @@ opportunities:
       - title: Official Website
         subTitle: takshak.in
         icon: "fa fa-globe-americas"
-        link: "http://archive.macehub.in/takshak/19/"
+        link: "http://takshak.in/"
 
       - title: Instagam Page
         subTitle: "@takshak19"
         icon: "fab fa-instagram"
-        link: "https://www.instagram.com/takshak19/"
+        link: "https://sanskritimace.in/"
 
 
 
 
 
-  # SANSKRITI  - Only social added
+  # SANSKRITI  - Last Updated 7 September 2020
   - title: Sankriti
     subTitle: Arts Club
     thumb: img/opp/sanskriti.png
@@ -322,35 +322,35 @@ opportunities:
 
 
   
-  # AISA - Feny Roy
+  # AISA - Update CoOrdinators, Contacts, Links
   - title: AISA MACE
     subTitle: Aerospace Interested Students Association
     thumb: img/opp/aisamace.png
     description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
   
-  # IOT Club - Need content
+  # IOT Club - Last Updated 7 September 2020
   - title: IoT Club
     thumb: img/opp/iotmace.png
     description: "The Internet Of Things Club is a place where you can find the latest information around The Internet Of Things. From news, ideas where the IOT can take us, to examples from everyday applications."
@@ -376,7 +376,7 @@ opportunities:
 
 
 
-# FAB LAB - Need content
+# FAB LAB - Last Updated 7 September 2020
   - title: Fab Lab
     subTitle: Fabrication Lab
     thumb: img/opp/fablab.png
@@ -404,10 +404,10 @@ opportunities:
 
 
   
-  # DIVAAT - Only IG added
+  # DIVAAT - Last Updated 7 September 2020
   - title: Divaat MACE
     subTitle: Fashion Club
-    thumb: img/opp/nologo.png
+    thumb: img/opp/divaat.png
     description: "The Fashion Club is a place for people to gather together who are interested in learning and sharing about how fashion, in all its facets, does exactly that. They participate in competitions around and train their members to be strong personnels."
     details:
       - title: Co-Ordinators
@@ -419,11 +419,6 @@ opportunities:
         data: "+91 81398 93209"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@divaat_mace"
         icon: "fab fa-instagram"
@@ -431,7 +426,7 @@ opportunities:
 
 
   
-  # Music Club - Complete needed
+  # Music Club - Need to Add Contact and Instagram Page
   - title: Music Club
     thumb: img/opp/musicclub.png
     description: "The club aims to explore the arena of music and strengthen the artistic talents of students. It helps the students to retain their own individual love of music and also enrich their own lives and lives of others."
@@ -440,41 +435,37 @@ opportunities:
         icon: "fa fa-user-friends"
         data: "Kailas Narayan ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+      # - title: "Contact Details"
+      #   icon: "fa fa-phone-alt"
+      #   data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
-  # Dance Club - complete needed
+  # Dance Club - Contact Needed
   - title: MACE Dance Club (MADc)
     thumb: img/opp/madc.png
     description: "The dance club will provide an opportunity to better the dancer in students through constant engagement and mentoring. The objective is to pick the best of dancers and form an efficient dance team, that can perform in various ocaasions within the college and also take part in events outside college."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
         subTitle: "@mace_dance_club"
@@ -484,7 +475,7 @@ opportunities:
 
 
 
-  # Quiz Club - Need content
+  # Quiz Club - Last Updated 7 September 2020
   - title: Quiz Club
     thumb: img/opp/quiz.png
     description: "The aim of the club is to inculcate among students a fondness for general knowledge and enhance their skills in academic, analytical abilities, quantitative reasoning, etc. and motivate them to bring themselves up to date with the current affairs of national and international importance."
@@ -498,10 +489,6 @@ opportunities:
         data: "+91 98469 44487\n"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
         subTitle: "@macequizclub"
@@ -511,7 +498,7 @@ opportunities:
 
 
   
-  # Debate Club - Need Logo
+  # Debate Club - Last Updated 7 September 2020
   - title: Debate Club
     thumb: img/opp/debateclub.png
     description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess. Words are the sword, and knowledge make the sword sharper. Debate club sharpenes the words of its members by giving them experience and exposure."
@@ -525,18 +512,13 @@ opportunities:
         data: "+91 99955 67971\n"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@macedebateclub"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macedebateclub/"
         
 
-  # MACE Shutter Club - Need content
+  # MACE Shutter Club - Last Updated 7 September 2020
   - title: MACE Shuter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
@@ -562,36 +544,36 @@ opportunities:
         link: "https://www.instagram.com/maceshutterclub/"
 
   
-  # Film Club - Need Full
+  # Film Club - Need CoOrdinators , Contact
   - title: Film Club
     thumb: img/opp/film.png
     description: "The Film Club is having a view to conduct film related awareness among its members. The activity of the Film Club is to draw students towards an active involvement in the Club through continued activities. The events are intended to expand their knowledge in the field of cinematography and associated science."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
   
 
 
-  # Netx Club - Need content and social liks(if any)
+  # Netx Club - Last Updated 7 September 2020
   - title: NetX Club
     thumb: img/opp/netxmace.png
     description: " NetX primarily focuses on Free and Open Source Software or FOSS ideology. We at NetX hope to provide a platform for students to advance and develop in their preferred areas of interest. Each of us integrate our talents and interests therefore becoming pillars to uphold our motto: Learn Develop Deploy."
@@ -605,20 +587,14 @@ opportunities:
         data: "+91 92074 50391\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
-
       - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+        subTitle: "@netxclub"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/netxclub/"
 
 
-# CyclingClub
+  # CyclingClub
   - title: Cycling Club
-
     thumb: img/opp/cyclingclub.png
     description: "The cycling club is a society for cyclists. Here they plan cycling trips around the places. The green future with healthy mates are one of the visions put forward by the club. Started few years back there is many aspirations for its members."
     details:
@@ -630,73 +606,49 @@ opportunities:
         icon: "fa fa-phone-alt"
         data: "+91 79948 53790"
 
-  #  links:
-  #    - title: Official Website
-  #      subTitle: ieee.macehub.in
-  #      icon: "fa fa-globe-americas"
-  #      link: "https://ieee.macehub.in"
-
-  #    - title: Instagam Page
-  #      subTitle: "@ieeemace"
-  #      icon: "fab fa-instagram"
-  #      link: "#link"
-
-
-
-# AERO CLUB
+  # AERO CLUB - Need Contact Details, Social Links
   - title: Aero Club
     thumb: img/opp/aeroclub.png
     description: "AeroClub is among those club in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aeromodels, Planes and drones"
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
-
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
-
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
 
-# LITERARY AND ARTISANS CLUB
+
+  # LITERARY AND ARTISANS CLUB - Need Co-Ordinators Contact , Links
   - title: Duende MACE
     subTitle: Literary & Artisans Club
     thumb: img/opp/duendemace.png
     description: "Duende MACE is the club that promotes the artisans of MACE. The club focuses on works that isn't restricted to anything apart from the use of Creativity of your brain and to bring out the artisit in you in any doamin as Stories, poems, paintings, cartoons and a lot more."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@duende.mace"
-        icon: "fab fa-instagram"
-        link: "https://www.instagram.com/duende.mace/"
+    #   - title: Instagam Page
+    #     subTitle: "@duende.mace"
+    #     icon: "fab fa-instagram"
+    #     link: "https://www.instagram.com/duende.mace/"
 
 
-# CRICKET TEAM - Need content
-  - title: Cricket Team
-    # subTitle: Literary & Artisans Club
+  # CRICKET TEAM - Last Updated 7 September 2020
+  - title: MACE Cricket Team
     thumb: img/opp/cricket.png
     description: "The Cricket team of MACE is a prestigious team that is able to pick up the skilled ones, train them into better an dmake them participate in competitions to strengthen them. The Team also hosts a variety of tournaments both within and outside MACE."
     details:
@@ -709,11 +661,6 @@ opportunities:
         data: "+91 94476 92275\n"
 
     links:
-    #   - title: Official Website
-    #     subTitle: ieee.macehub.in
-    #     icon: "fa fa-globe-americas"
-    #     link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@mace_cricket_team"
         icon: "fab fa-instagram"
@@ -721,9 +668,8 @@ opportunities:
 
 
 
-# FOOTBALL TEAM - Need logo and content
-  - title: Football Team
-    # subTitle: Literary & Artisans Club
+  # FOOTBALL TEAM - Last Updated 7 September 2020
+  - title: MACE Football Team
     thumb: img/opp/football.png
     description: "The Vibrant Football team of MACE is the Hub for all Football lovers and players. They are very well versed in hosting a variety of tournaments and participating in others too. The club has set a benchmark in the competance."
     details:
@@ -741,32 +687,21 @@ opportunities:
         icon: "fab fa-facebook"
         link: "https://www.facebook.com/macefootballteam/"
 
-    #   - title: Instagam Page
-    #     subTitle: "@ieeemace"
-    #     icon: "fab fa-instagram"
-    #     link: "#link"
 
-
-
-# VOLLEY BALL TEAM
+  # VOLLEY BALL TEAM - Need CoOrdinators and Number
   - title: Volley Ball Team
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/volleyball.png
     description: "The Volleyball team of MACE is a team that focuses on finding and building challenging people to compete in Volleyball Competiton for MACE. The team is renowned for the tournaments they have won."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
 
       - title: Instagam Page
         subTitle: "@macevolley"
@@ -775,53 +710,46 @@ opportunities:
 
 
 
-# BASKET BALL TEAM
+  # BASKET BALL TEAM - Need CoOrdinators and Contacts and links
   - title: Basket Ball Team
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/basketball.png
     description: "The Basketball Team of MACE is the team of students, which is focussed on training and building a strong competant team of basketball players. Their activties are able to instill the passion in students."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
 
-      - title: Instagam Page
-        subTitle: "@ieeemace"
-        icon: "fab fa-instagram"
-        link: "#link"
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
 
 
 
-# BADMINTON TEAM - Only IG added
+  # BADMINTON TEAM - Need CoOrdinators and Contacts
   - title: Badminton Club
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/badmintonteam.png
     description: "The Badminton Club of MACE is very well known for the prestigious competitions they host and the vibrancy of studnets who are part of it, and making the club proud by winning competitions."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    # details:
+      # - title: Co-Ordinators
+      #   icon: "fa fa-user-friends"
+      #   data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
         
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 99887 76655\nieeemace@gmail.com"
+      # - title: "Contact Details"
+      #   icon: "fa fa-phone-alt"
+      #   data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@macebadmintonclub"
         icon: "fab fa-instagram"
