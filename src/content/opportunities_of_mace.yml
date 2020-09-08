@@ -243,7 +243,7 @@ opportunities:
   - title: Takshak
     subTitle: Tech Fest
     thumb: img/opp/takshak.png
-    description: "Takshak is a national level techfest annually conducted at MACE. It's one of the best techfests in South India. More than 5000 students participates every year."
+    description: "Takshak is a national level techfest annually conducted at MACE. It's one of the best techfests in South India. More than 5000 students participates every year. The fest also has a roster of diverse events like workshops, competitions, talks and exhibitions. "
     # details:
     #   - title: Co-Ordinators,
     #     icon: "fa fa-user-friends"
@@ -272,7 +272,7 @@ opportunities:
   - title: Sankriti
     subTitle: Arts Club
     thumb: img/opp/sanskriti.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "Sanskriti is the annual Arts and Cultural Fest of MACE. The event comprises of 3 days of fun filled cultural and arts competitons, workshops and events happening with a large crowd of students across Kerala. The nights of Sanksriti are live with fabulous performances."
     # details:
     #   - title: Co-Ordinators,
     #     icon: "fa fa-user-friends"
@@ -592,28 +592,28 @@ opportunities:
 
 
   # Netx Club - Need content and social liks(if any)
-  #- title: NetX Club
-  #  thumb: img/opp/netxmace.png
-  #  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
-  #  details:
-  #    - title: Co-Ordinators,
-  #      icon: "fa fa-user-friends"
-  #      data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
+  - title: NetX Club
+    thumb: img/opp/netxmace.png
+    description: " NetX primarily focuses on Free and Open Source Software or FOSS ideology. We at NetX hope to provide a platform for students to advance and develop in their preferred areas of interest. Each of us integrate our talents and interests therefore becoming pillars to uphold our motto: Learn Develop Deploy."
+    details:
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
         
-  #    - title: "Contact Details"
-  #      icon: "fa fa-phone-alt"
-  #      data: "+91 92074 50391\n"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 92074 50391\n"
 
-  #  links:
-  #    - title: Official Website
-  #      subTitle: ieee.macehub.in
-  #      icon: "fa fa-globe-americas"
-  #      link: "https://ieee.macehub.in"
+    links:
+      - title: Official Website
+        subTitle: ieee.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://ieee.macehub.in"
 
-  #   - title: Instagam Page
-  #      subTitle: "@ieeemace"
-  #      icon: "fab fa-instagram"
-  #      link: "#link"
+      - title: Instagam Page
+        subTitle: "@ieeemace"
+        icon: "fab fa-instagram"
+        link: "#link"
 
 
 # CyclingClub
@@ -646,7 +646,7 @@ opportunities:
 # AERO CLUB
   - title: Aero Club
     thumb: img/opp/aeroclub.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "AeroClub is among those club in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aeromodels, Planes and drones"
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -672,7 +672,7 @@ opportunities:
   - title: Duende MACE
     subTitle: Literary & Artisans Club
     thumb: img/opp/duendemace.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "Duende MACE is the club that promotes the artisans of MACE. The club focuses on works that isn't restricted to anything apart from the use of Creativity of your brain and to bring out the artisit in you in any doamin as Stories, poems, paintings, cartoons and a lot more."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -689,16 +689,16 @@ opportunities:
         link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@duende.mace"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/duende.mace/"
 
 
 # CRICKET TEAM - Need content
   - title: Cricket Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/cricket.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Cricket team of MACE is a prestigious team that is able to pick up the skilled ones, train them into better an dmake them participate in competitions to strengthen them. The Team also hosts a variety of tournaments both within and outside MACE."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -708,16 +708,16 @@ opportunities:
         icon: "fa fa-phone-alt"
         data: "+91 94476 92275\n"
 
-    # links:
+    links:
     #   - title: Official Website
     #     subTitle: ieee.macehub.in
     #     icon: "fa fa-globe-americas"
     #     link: "https://ieee.macehub.in"
 
-    #   - title: Instagam Page
-    #     subTitle: "@ieeemace"
-    #     icon: "fab fa-instagram"
-    #     link: "#link"
+      - title: Instagam Page
+        subTitle: "@mace_cricket_team"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/mace_cricket_team/"
 
 
 
@@ -725,7 +725,7 @@ opportunities:
   - title: Football Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/football.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Vibrant Football team of MACE is the Hub for all Football lovers and players. They are very well versed in hosting a variety of tournaments and participating in others too. The club has set a benchmark in the competance."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -752,7 +752,7 @@ opportunities:
   - title: Volley Ball Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/volleyball.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Volleyball team of MACE is a team that focuses on finding and building challenging people to compete in Volleyball Competiton for MACE. The team is renowned for the tournaments they have won."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -769,9 +769,9 @@ opportunities:
         link: "https://ieee.macehub.in"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@macevolley"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/macevolley/"
 
 
 
@@ -779,7 +779,7 @@ opportunities:
   - title: Basket Ball Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/basketball.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Basketball Team of MACE is the team of students, which is focussed on training and building a strong competant team of basketball players. Their activties are able to instill the passion in students."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
@@ -803,10 +803,10 @@ opportunities:
 
 
 # BADMINTON TEAM - Only IG added
-  - title: Badminton Team
+  - title: Badminton Club
     # subTitle: Literary & Artisans Club
     thumb: img/opp/badmintonteam.png
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam autem eaque doloremque ad quo magni dolor. doloremque ad quo magni dolor."
+    description: "The Badminton Club of MACE is very well known for the prestigious competitions they host and the vibrancy of studnets who are part of it, and making the club proud by winning competitions."
     details:
       - title: Co-Ordinators,
         icon: "fa fa-user-friends"
