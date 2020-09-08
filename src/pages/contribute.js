@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet"
 
 import './../scss/macehub.scss';
 
-import {Container, Row,Col} from 'react-bootstrap';
+import {Container} from 'react-bootstrap';
 import SectionTitle from './../components/SectionTitle.js'
 
 
