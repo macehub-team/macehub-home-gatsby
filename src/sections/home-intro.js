@@ -12,7 +12,7 @@ export default function HomeIntro() {
           <Col md={6} className="text-center" id="intro">
             <img src="img/logo.png" className="logo-main" alt="Logo"/>
             <p>
-            A platform initiative for effective co-ordinations of clubs and events at campuses. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sodales dui. Nulla in egestas magna. Fusce rhoncus auctor lacus in interdum.
+            A platform initiative for effective co-ordinations of clubs and events at campus. We at MaceHub tries to bring you, students what is happening in the college along with informations about clubs, clubs or organisation the technical support you have been looking forward to expand yourself.
             </p>
             <span className="star-break"></span>
             <a href="mailto:info@macehub.in" className="text-dark">info@macehub.in</a>
