@@ -322,59 +322,6 @@ opportunities:
 
 
   
-  # AISA - Update CoOrdinators, Contacts, Links
-  - title: AISA MACE
-    subTitle: Aerospace Interested Students Association
-    thumb: img/opp/aisamace.png
-    description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
-    # details:
-    #   - title: Co-Ordinators
-    #     icon: "fa fa-user-friends"
-    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
-    #   - title: "Contact Details"
-    #     icon: "fa fa-phone-alt"
-    #     data: "+91 99887 76655\nieeemace@gmail.com"
-
-    # links:
-    #   - title: Official Website
-    #     subTitle: ieee.macehub.in
-    #     icon: "fa fa-globe-americas"
-    #     link: "https://ieee.macehub.in"
-
-    #   - title: Instagam Page
-    #     subTitle: "@ieeemace"
-    #     icon: "fab fa-instagram"
-    #     link: "#link"
-
-
-
-  
-  # IOT Club - Last Updated 7 September 2020
-  - title: IoT Club
-    thumb: img/opp/iotmace.png
-    description: "The Internet Of Things Club is a place where you can find the latest information around The Internet Of Things. From news, ideas where the IOT can take us, to examples from everyday applications."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Able Varghese ( S7  ECE ) , Binil V Jacob ( S7  ECE )"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 83048 71107\n"
-
-    links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
-
-      - title: Facebook Page
-        subTitle: "@IoTMACE"
-        icon: "fab fa-facebook"
-        link: "https://www.facebook.com/IoTMACE/"
-
-
 
 # FAB LAB - Last Updated 7 September 2020
   - title: Fab Lab
@@ -471,6 +418,32 @@ opportunities:
         subTitle: "@mace_dance_club"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/mace_dance_club/"
+
+
+  
+  # IOT Club - Last Updated 7 September 2020
+  - title: IoT Club
+    thumb: img/opp/iotmace.png
+    description: "The Internet Of Things Club is a place where you can find the latest information around The Internet Of Things. From news, ideas where the IOT can take us, to examples from everyday applications."
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Able Varghese ( S7  ECE ) , Binil V Jacob ( S7  ECE )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 83048 71107\n"
+
+    links:
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
+
+      - title: Facebook Page
+        subTitle: "@IoTMACE"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/IoTMACE/"
 
 
 
@@ -621,6 +594,33 @@ opportunities:
 
 
 
+  # AISA - Update CoOrdinators, Contacts, Links
+  - title: AISA MACE
+    subTitle: Aerospace Interested Students Association
+    thumb: img/opp/aisamace.png
+    description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
+
+    # links:
+    #   - title: Official Website
+    #     subTitle: ieee.macehub.in
+    #     icon: "fa fa-globe-americas"
+    #     link: "https://ieee.macehub.in"
+
+    #   - title: Instagam Page
+    #     subTitle: "@ieeemace"
+    #     icon: "fab fa-instagram"
+    #     link: "#link"
+
+
+ 
   # LITERARY AND ARTISANS CLUB - Need Co-Ordinators Contact , Links
   - title: Duende MACE
     subTitle: Literary & Artisans Club
