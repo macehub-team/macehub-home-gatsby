@@ -27,7 +27,7 @@ opportunities:
         link: "#link"
 
 
-  # IEDC MACE - Need content and mail
+  # IEDC MACE - Need mail
   - title: IEDC MACE
     subTitle: Innovation and Entrepreneurship Development Cell
     thumb: img/opp/iedc.png
@@ -39,7 +39,7 @@ opportunities:
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 80865 35843\nieeemace@gmail.com"
+        data: "+91 80865 35843\n"
 
     links:
       - title: Official Website
@@ -53,7 +53,7 @@ opportunities:
         link: "https://www.instagram.com/iedc_mace/"
 
 
-  # NSS MACE - need content
+  # NSS MACE - COMPLETE
   - title: NSS MACE
     subTitle: National Service Scheme
     thumb: img/opp/nssmace.png
@@ -79,7 +79,7 @@ opportunities:
         link: "https://www.instagram.com/nss.mace"
 
 
-  # THE MACE POST - Need mail and content
+  # THE MACE POST - Need mail
   - title: THE MACE POST
     thumb: img/opp/tmp.png
     description: "The MACEPOST is an ambitious initiative taken up by the students of MACE with two main aims in mind. One is to bring in \"Opportunities\" and other to spread out \"Information\" that is available in MACE. "
@@ -147,13 +147,13 @@ opportunities:
         data: "+91 73564 02564\nsaemace@zohomail.in"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
+      - title: Instagam Page
+        subTitle: "@saemace_official"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/saemace_official/"
 
 
-  # DOM - need content
+  # DOM - COMPLETE
   - title: Designers of MACE
     thumb: img/opp/dom.png
     description: "DOM is an intiative to bring together the Designers of MACE. It is organized with a motive to guide aspiring designers, review peers work, innovate their skills and help each other become something more."
@@ -175,7 +175,7 @@ opportunities:
 
 
 
-  # DSC Mace -Need Content
+  # DSC Mace - COMPLETE
   - title: DSC MACE
     subTitle: Developer Student Club
     thumb: img/opp/dsc.png
@@ -192,7 +192,7 @@ opportunities:
 
 
 
-  # TNP - Need content and contact
+  # TNP - Need contact
   - title: TNP MACE
     subTitle: Training and Placement Cell
     thumb: img/opp/tnp.png
@@ -239,7 +239,7 @@ opportunities:
 
 
 
-  # TAKSHAK - Only social added
+  # TAKSHAK - COMPLETE
   - title: Takshak
     subTitle: Tech Fest
     thumb: img/opp/takshak.png
@@ -268,9 +268,9 @@ opportunities:
 
 
 
-  # SANSKRITI  - Only social added
+  # SANSKRITI  - COMPLETE
   - title: Sankriti
-    subTitle: Arts Club
+    subTitle: Arts Fest
     thumb: img/opp/sanskriti.png
     description: "Sanskriti is the annual Arts and Cultural Fest of MACE. The event comprises of 3 days of fun filled cultural and arts competitons, workshops and events happening with a large crowd of students across Kerala. The nights of Sanksriti are live with fabulous performances."
     # details:
@@ -322,7 +322,7 @@ opportunities:
 
 
   
-  # AISA - Feny Roy
+  # AISA - Need coordinatos, contact, mail, website and social
   - title: AISA MACE
     subTitle: Aerospace Interested Students Association
     thumb: img/opp/aisamace.png
@@ -350,7 +350,7 @@ opportunities:
 
 
   
-  # IOT Club - Need content
+  # IOT Club - COMPLETE
   - title: IoT Club
     thumb: img/opp/iotmace.png
     description: "The Internet Of Things Club is a place where you can find the latest information around The Internet Of Things. From news, ideas where the IOT can take us, to examples from everyday applications."
@@ -364,10 +364,10 @@ opportunities:
         data: "+91 83048 71107\n"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
+      - title: Instagram Page
+        subTitle: "@iotclubmace"
+        icon: "fa fa-instagram"
+        link: "https://www.instagram.com/iotclubmace/"
 
       - title: Facebook Page
         subTitle: "@IoTMACE"
@@ -376,7 +376,7 @@ opportunities:
 
 
 
-# FAB LAB - Need content
+# FAB LAB - COMPLETE
   - title: Fab Lab
     subTitle: Fabrication Lab
     thumb: img/opp/fablab.png
@@ -404,7 +404,7 @@ opportunities:
 
 
   
-  # DIVAAT - Only IG added
+  # DIVAAT - NEED LOGO
   - title: Divaat MACE
     subTitle: Fashion Club
     thumb: img/opp/nologo.png
@@ -431,7 +431,7 @@ opportunities:
 
 
   
-  # Music Club - Complete needed
+  # Music Club - Need coordnators, contact, mail, site, social
   - title: Music Club
     thumb: img/opp/musicclub.png
     description: "The club aims to explore the arena of music and strengthen the artistic talents of students. It helps the students to retain their own individual love of music and also enrich their own lives and lives of others."
@@ -457,7 +457,7 @@ opportunities:
 
 
 
-  # Dance Club - complete needed
+  # Dance Club - Only Content and IG added
   - title: MACE Dance Club (MADc)
     thumb: img/opp/madc.png
     description: "The dance club will provide an opportunity to better the dancer in students through constant engagement and mentoring. The objective is to pick the best of dancers and form an efficient dance team, that can perform in various ocaasions within the college and also take part in events outside college."
@@ -484,7 +484,7 @@ opportunities:
 
 
 
-  # Quiz Club - Need content
+  # Quiz Club - COMPLETE
   - title: Quiz Club
     thumb: img/opp/quiz.png
     description: "The aim of the club is to inculcate among students a fondness for general knowledge and enhance their skills in academic, analytical abilities, quantitative reasoning, etc. and motivate them to bring themselves up to date with the current affairs of national and international importance."
@@ -511,7 +511,7 @@ opportunities:
 
 
   
-  # Debate Club - Need Logo
+  # Debate Club - COMPLETE
   - title: Debate Club
     thumb: img/opp/debateclub.png
     description: "A platform to voice out your thoughts, to sharpen your critical thinking, public speaking and the much-needed soft skill prowess. Words are the sword, and knowledge make the sword sharper. Debate club sharpenes the words of its members by giving them experience and exposure."
@@ -536,7 +536,7 @@ opportunities:
         link: "https://www.instagram.com/macedebateclub/"
         
 
-  # MACE Shutter Club - Need content
+  # MACE Shutter Club - COMPLETE
   - title: MACE Shuter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
@@ -562,7 +562,7 @@ opportunities:
         link: "https://www.instagram.com/maceshutterclub/"
 
   
-  # Film Club - Need Full
+  # Film Club - Need CONTACT, MAIL, SOCIAL & SITE
   - title: Film Club
     thumb: img/opp/film.png
     description: "The Film Club is having a view to conduct film related awareness among its members. The activity of the Film Club is to draw students towards an active involvement in the Club through continued activities. The events are intended to expand their knowledge in the field of cinematography and associated science."
@@ -591,7 +591,7 @@ opportunities:
   
 
 
-  # Netx Club - Need content and social liks(if any)
+  # Netx Club - COMPLETE
   - title: NetX Club
     thumb: img/opp/netxmace.png
     description: " NetX primarily focuses on Free and Open Source Software or FOSS ideology. We at NetX hope to provide a platform for students to advance and develop in their preferred areas of interest. Each of us integrate our talents and interests therefore becoming pillars to uphold our motto: Learn Develop Deploy."
@@ -605,18 +605,18 @@ opportunities:
         data: "+91 92074 50391\n"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      - title: Facebook Page
+        subTitle: "@netxclub"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/netxclub/"
 
       - title: Instagam Page
-        subTitle: "@ieeemace"
+        subTitle: "@netxclub"
         icon: "fab fa-instagram"
-        link: "#link"
+        link: "https://www.instagram.com/netxclub/"
 
 
-# CyclingClub
+# CyclingClub - COMPLETE
   - title: Cycling Club
 
     thumb: img/opp/cyclingclub.png
@@ -643,7 +643,7 @@ opportunities:
 
 
 
-# AERO CLUB
+# AERO CLUB -ONLY CONTENT ADDED
   - title: Aero Club
     thumb: img/opp/aeroclub.png
     description: "AeroClub is among those club in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aeromodels, Planes and drones"
@@ -668,7 +668,7 @@ opportunities:
         link: "#link"
 
 
-# LITERARY AND ARTISANS CLUB
+# LITERARY AND ARTISANS CLUB - CONTENT, IG AND LOGO ADDED
   - title: Duende MACE
     subTitle: Literary & Artisans Club
     thumb: img/opp/duendemace.png
@@ -694,9 +694,8 @@ opportunities:
         link: "https://www.instagram.com/duende.mace/"
 
 
-# CRICKET TEAM - Need content
+# CRICKET TEAM - COMPLETE
   - title: Cricket Team
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/cricket.png
     description: "The Cricket team of MACE is a prestigious team that is able to pick up the skilled ones, train them into better an dmake them participate in competitions to strengthen them. The Team also hosts a variety of tournaments both within and outside MACE."
     details:
@@ -721,7 +720,7 @@ opportunities:
 
 
 
-# FOOTBALL TEAM - Need logo and content
+# FOOTBALL TEAM - COMPLETE
   - title: Football Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/football.png
@@ -741,14 +740,14 @@ opportunities:
         icon: "fab fa-facebook"
         link: "https://www.facebook.com/macefootballteam/"
 
-    #   - title: Instagam Page
-    #     subTitle: "@ieeemace"
-    #     icon: "fab fa-instagram"
-    #     link: "#link"
+      - title: Instagam Page
+        subTitle: "@mace_footballteam"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/mace_footballteam/"
 
 
 
-# VOLLEY BALL TEAM
+# VOLLEY BALL TEAM - NEED COORDINATOR AND CONTACT
   - title: Volley Ball Team
     # subTitle: Literary & Artisans Club
     thumb: img/opp/volleyball.png
@@ -763,10 +762,10 @@ opportunities:
         data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-      - title: Official Website
-        subTitle: ieee.macehub.in
-        icon: "fa fa-globe-americas"
-        link: "https://ieee.macehub.in"
+      # - title: Official Website
+      #   subTitle: ieee.macehub.in
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://ieee.macehub.in"
 
       - title: Instagam Page
         subTitle: "@macevolley"
@@ -775,9 +774,8 @@ opportunities:
 
 
 
-# BASKET BALL TEAM
+# BASKET BALL TEAM - NEED COORDINATOR, CONTACT AND SOCIAL
   - title: Basket Ball Team
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/basketball.png
     description: "The Basketball Team of MACE is the team of students, which is focussed on training and building a strong competant team of basketball players. Their activties are able to instill the passion in students."
     details:
@@ -802,9 +800,8 @@ opportunities:
 
 
 
-# BADMINTON TEAM - Only IG added
+# BADMINTON TEAM - NEED COORDINATOR AND CONTACT
   - title: Badminton Club
-    # subTitle: Literary & Artisans Club
     thumb: img/opp/badmintonteam.png
     description: "The Badminton Club of MACE is very well known for the prestigious competitions they host and the vibrancy of studnets who are part of it, and making the club proud by winning competitions."
     details:
