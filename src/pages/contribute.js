@@ -21,9 +21,11 @@ export default function Home() {
         <SectionTitle title="Contribute to " titleEnd="Macehub" marginBottom="4rem" />
 
         <p>
-          Macehub is a non profit community. It does't generate any revenue from it's services. And it costs us more that 5000 rupess annaully as technical charges ( for Server, Domain and etc.. ). Macehub runs this services as part of <br/>
+        Macehub is a <strong>Not For Profit</strong> community designed to satisfy the technical needs of MACE <em>Students and Organisation</em>. We aren't generating any revenue from our products or services. This doesn't imply we are free of expenses, it costs us about <strong>₹5000 anually</strong> as technical charges( for Server, Domain and etc.. ). Macehub runs this services as part of holistic vision to empower MACE on the technical grounds.<br/>
           <br/><br/>
-          If you wish to contribute and support us, please inform us through <a href="mailto:info@macehub.in">info@macehub.in</a>
+          If you wish to contribute or support, please inform us through <a href="mailto:info@macehub.in">info@macehub.in</a>
+          <br/><br/>
+          <em>Every little drop of water counts.</em>
         </p>
       </Container>
     </section>
