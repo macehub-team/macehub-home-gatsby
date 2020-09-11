@@ -310,7 +310,7 @@ opportunities:
 
 
 
-# FAB LAB - Last Updated 7 September 2020
+  # FAB LAB - Last Updated 7 September 2020
   - title: Fab Lab
     subTitle: Fabrication Lab
     thumb: img/opp/fablab.png
@@ -347,18 +347,29 @@ opportunities:
 
 
   
-  # Music Club - Need to Add Contact and Instagram Page
+  # Music Club - COMPLETE - Last Updated Sept 11th 2020
   - title: Music Club
     thumb: img/opp/musicclub.png
     description: "The club aims to explore the arena of music and strengthen the artistic talents of students. It helps the students to retain their own individual love of music and also enrich their own lives and lives of others."
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Kailas Narayan ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        data: "Kailas Narayan"
         
-      # - title: "Contact Details"
-      #   icon: "fa fa-phone-alt"
-      #   data: "+91 99887 76655\nieeemace@gmail.com"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 81139 78940\n"
+
+    links:
+      # - title: Facebook Page
+      #   subTitle: Mace music club
+      #   icon: "fa fa-globe-americas"
+      #   link: "https://www.facebook.com/Mace-music-club-163335840358709"
+
+      - title: Instagam Page
+        subTitle: "@mace_music_club"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/mace_music_club/"
 
 
 
@@ -398,9 +409,9 @@ opportunities:
         data: "+91 83048 71107\n"
 
     links:
-      - title: Instagram Page
+      - title: Instagam Page
         subTitle: "@iotclubmace"
-        icon: "fa fa-instagram"
+        icon: "fab fa-instagram"
         link: "https://www.instagram.com/iotclubmace/"
 
       - title: Facebook Page
@@ -567,16 +578,16 @@ opportunities:
     #     icon: "fa fa-phone-alt"
     #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    # links:
+    links:
     #   - title: Official Website
     #     subTitle: ieee.macehub.in
     #     icon: "fa fa-globe-americas"
     #     link: "https://ieee.macehub.in"
 
-    #   - title: Instagam Page
-    #     subTitle: "@ieeemace"
-    #     icon: "fab fa-instagram"
-    #     link: "#link"
+      - title: Instagam Page
+        subTitle: "@aisa.mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/aisa.mace/"
 
 
  
@@ -594,16 +605,16 @@ opportunities:
     #     icon: "fa fa-phone-alt"
     #     data: "+91 99887 76655\nieeemace@gmail.com"
 
-    # links:
+    links:
     #   - title: Official Website
     #     subTitle: ieee.macehub.in
     #     icon: "fa fa-globe-americas"
     #     link: "https://ieee.macehub.in"
 
-    #   - title: Instagam Page
-    #     subTitle: "@duende.mace"
-    #     icon: "fab fa-instagram"
-    #     link: "https://www.instagram.com/duende.mace/"
+      - title: Instagam Page
+        subTitle: "@duende.mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/duende.mace/"
 
 
   # CRICKET TEAM - Updated 7 September 2020
