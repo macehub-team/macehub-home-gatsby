@@ -43,7 +43,7 @@ export default function OpportunityBox(props) {
 
 function OpportunityBoxLink(props) {
     return (
-        <a href={props.link}>
+        <a href={props.link} target="_blank">
             <i className={props.icon+" opp-link-icon"}></i>
             <i className="fa fa-chevron-right opp-right-icon"></i>
             <span className="opp-link-label">{props.title}</span>
