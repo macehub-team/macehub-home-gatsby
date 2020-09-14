@@ -1,9 +1,11 @@
 import React from "react"
+import { Link } from "gatsby";
 
 export default function QuickLink(props) {
     return (
-        <a href={props.href} 
+        <Link href={props.href} 
             className="quick-link" 
+            onClick={(e)=>{e.preventDefault();props.onClick()}}
             {...(props.newTab===true)?{target:"_blank",rel:"noreferrer"}:{}} >
 
             <div className="row">
@@ -15,6 +17,6 @@ export default function QuickLink(props) {
                 {props.subLabel}
             </div>	
             </div>
-        </a>
+        </Link>
     );
 }
