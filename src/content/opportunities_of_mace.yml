@@ -586,18 +586,13 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Akhiljith MB, Gadha Premdas"
+        data: "Akhiljith (S7MB) , Gadha Premdas (S7MB)"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 82813 17348"
+        data: "+91 82813 17348\n+91 73568 16303"
 
     links:
-    #   - title: Official Website
-    #     subTitle: ieee.macehub.in
-    #     icon: "fa fa-globe-americas"
-    #     link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@aisa.mace"
         icon: "fab fa-instagram"
