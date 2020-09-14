@@ -473,7 +473,7 @@ opportunities:
         
 
   # MACE Shutter Club - Last Updated 7 September 2020
-  - title: MACE Shuter Club
+  - title: MACE Shutter Club
     subTitle: Photography Club
     thumb: img/opp/shutterclub.png
     description: "MACE Shutter Clubs focuses on bringing up the skills behind cameras, both in still images and video capture. The club members is given privileges of covering the events happening in MACE. They are able to get the guidance of experieced peers in their club life."
@@ -576,14 +576,14 @@ opportunities:
     subTitle: Aerospace Interested Students Association
     thumb: img/opp/aisamace.png
     description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
-    # details:
-    #   - title: Co-Ordinators
-    #     icon: "fa fa-user-friends"
-    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Akhiljith MB, Gadha Premdas"
         
-    #   - title: "Contact Details"
-    #     icon: "fa fa-phone-alt"
-    #     data: "+91 99887 76655\nieeemace@gmail.com"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 82813 17348"
 
     links:
     #   - title: Official Website
