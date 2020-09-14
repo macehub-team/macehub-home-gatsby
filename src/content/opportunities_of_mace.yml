@@ -103,7 +103,27 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/themacepost"
   
- 
+
+  
+  # SAE MACE - Last Updated 7 September 2020
+  - title: SAE MACE
+    thumb: img/opp/saemace.png
+    subTitle: Society of Automotive Engineers
+    description: "A collegiate club providing a platform for students to get involved in various automobile and engineering related events, competitions and conventions to enhance their knowledge in the automotive field"
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Davis Jacob Thomas ( S7  Mechanicl ) , Allen Seby ( S7  Mechanical )"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 73564 02564\nsaemace@zohomail.in"
+
+    links:
+      - title: Instagam Page
+        subTitle: "@saemace_official"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/saemace_official/"
 
   # ASME MACE - Last Updated 7 September 2020
   - title: ASME MACE
@@ -132,25 +152,7 @@ opportunities:
 
 
   
-  # SAE MACE - Last Updated 7 September 2020
-  - title: SAE MACE
-    thumb: img/opp/saemace.png
-    subTitle: Society of Automotive Engineers
-    description: "A collegiate club providing a platform for students to get involved in various automobile and engineering related events, competitions and conventions to enhance their knowledge in the automotive field"
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Davis Jacob Thomas ( S7  Mechanicl ) , Allen Seby ( S7  Mechanical )"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 73564 02564\nsaemace@zohomail.in"
 
-    links:
-      - title: Instagam Page
-        subTitle: "@saemace_official"
-        icon: "fab fa-instagram"
-        link: "https://www.instagram.com/saemace_official/"
 
 
   # DOM - Last Updated 7 September 2020
