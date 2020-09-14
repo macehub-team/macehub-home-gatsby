@@ -10,7 +10,7 @@ import OpportunitiesData from './../content/opportunities_of_mace.yml';
 
 export default function OppurtunitiesInMace() {
   return (
-    <section id="opps-in-mace" style={{padding:"50px 0"}}>
+    <section id="opps-in-mace">
       <Container>
         <SectionTitle title="Opportunities In " titleEnd="Mace" marginBottom="4rem" />
         <Row>
