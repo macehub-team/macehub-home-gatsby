@@ -199,53 +199,39 @@ opportunities:
         link: "https://dsc.community.dev/mar-athanasius-college-of-engineering/"
 
 
-  # TNP - Last Updated 7 September 2020
-  - title: TNP MACE
-    subTitle: Training and Placement Cell
-    thumb: img/opp/tnp.png
-    description: "TNP MACE is an integral part of MACE Life. It helps our students get trained sufficiently to appear for job interview, also they brings us the job opportunities that are available for us from around the globe."
-    details:
-      - title: Staff in Charge
-        icon: "fa fa-user-friends"
-        data: "Prof. Biju Skaria"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: " +91 9447294680\n +91 9544744559\nplacements@mace.ac.in"
 
-    links:
-      - title: Official Website
-        subTitle: www.tnpmace.com
-        icon: "fa fa-globe-americas"
-        link: "http://tnpmace.com/"
-
-
-  # TEDxMACE - Last Updated 7 September 2020
-  - title: TEDxMACE
-    thumb: img/opp/tedx.png
-    description: " Here, at TEDxMACE (a full-day conference), we bring you hand-picked stories of unconventionally extraordinary individuals who will showcase to you a world for not just what it is, but, for what it could be."
+  # MACE MUN - Last Updated 14 September 2020
+  - title: MACE MUN
+    subTitle: Model United Nations
+    thumb: img/opp/mun.png
+    description: "An educational simulation and/or academic competition in which students can learn about diplomacy, international relations, and the United Nations. MUN involves and teaches researching, public speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities."
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Davis Jacob Thomas ( S7  Mechanical ) , Mathews ( S7  ECE )"
+        data: "Kavith Viswanath ( S7  Mechanical ) , Akhil Sreekumar ( S7  Mechanical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 79029 26321\ntedxmace@gmail.com"
+        data: "+91 99618 19848\nmacemun@gmail.com"
 
     links:
       - title: Official Website
-        subTitle: tedxmace.com
+        subTitle: mun.themacepost.com
         icon: "fa fa-globe-americas"
-        link: "http://tedxmace.com/"
+        link: "https://mun.themacepost.com"
+
+      - title: Facebook Page
+        subTitle: "@macemun"
+        icon: "fab fa-facebook"
+        link: "https://www.facebook.com/macemun/"
 
       - title: Instagam Page
-        subTitle: "@tedxmace"
+        subTitle: "@macemun"
         icon: "fab fa-instagram"
-        link: "https://www.instagram.com/tedxmace/"
+        link: "https://www.instagram.com/macemun"
 
 
-
+  
   # TAKSHAK - Last Updated 7 September 2020
   - title: Takshak
     subTitle: Tech Fest
@@ -285,34 +271,53 @@ opportunities:
         link: "https://www.instagram.com/sanskriti.mace/"
 
 
-  
-  # MACE MUN - need mail
-  - title: MACE MUN
-    subTitle: Model United Nations
-    thumb: img/opp/mun.png
-    description: "An educational simulation and/or academic competition in which students can learn about diplomacy, international relations, and the United Nations. MUN involves and teaches researching, public speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities."
+
+  # TEDxMACE - Last Updated 7 September 2020
+  - title: TEDxMACE
+    thumb: img/opp/tedx.png
+    description: " Here, at TEDxMACE (a full-day conference), we bring you hand-picked stories of unconventionally extraordinary individuals who will showcase to you a world for not just what it is, but, for what it could be."
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Kavith Viswanath ( S7  Mechanical ) , Akhil Sreekumar ( S7  Mechanical )"
+        data: "Davis Jacob Thomas ( S7  Mechanical ) , Mathews ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 99618 19848\n"
+        data: "+91 79029 26321\ntedxmace@gmail.com"
 
     links:
       - title: Official Website
-        subTitle: mun.themacepost.com
+        subTitle: tedxmace.com
         icon: "fa fa-globe-americas"
-        link: "https://mun.themacepost.com"
+        link: "http://tedxmace.com/"
 
       - title: Instagam Page
-        subTitle: "@macemun"
+        subTitle: "@tedxmace"
         icon: "fab fa-instagram"
-        link: "https://www.instagram.com/macemun"
-
+        link: "https://www.instagram.com/tedxmace/"
 
   
+
+
+  # TNP - Last Updated 7 September 2020
+  - title: TNP MACE
+    subTitle: Training and Placement Cell
+    thumb: img/opp/tnp.png
+    description: "TNP MACE is an integral part of MACE Life. It helps our students get trained sufficiently to appear for job interview, also they brings us the job opportunities that are available for us from around the globe."
+    details:
+      - title: Staff in Charge
+        icon: "fa fa-user-friends"
+        data: "Prof. Biju Skaria"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: " +91 9447294680\n +91 9544744559\nplacements@mace.ac.in"
+
+    links:
+      - title: Official Website
+        subTitle: www.tnpmace.com
+        icon: "fa fa-globe-americas"
+        link: "http://tnpmace.com/"
 
 
 
