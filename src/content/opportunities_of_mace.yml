@@ -47,6 +47,11 @@ opportunities:
         icon: "fa fa-globe-americas"
         link: "https://iedc.macehub.in/"
 
+      - title: Linked In Page
+        subTitle: "iedc-mace"
+        icon: "fab fa-linkedin"
+        link: "https://www.linkedin.com/company/iedc-mace"
+
       - title: Instagam Page
         subTitle: "@iedc_mace"
         icon: "fab fa-instagram"
@@ -61,11 +66,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Bonia Benny, Abhijith P S"
+        data: "Devanand Ravindran, Bonia Benny, Anto Jose, Isabel Ann, Abhijith PS, Maria Thankachan, Bimin VM, Neema VP"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 93834 42178\nnss@mace.ac.in"
+        data: "+91 93834 42178\n+91 94000 77802\nnss@mace.ac.in"
 
     links:
       - title: Facebook Page
@@ -129,7 +134,7 @@ opportunities:
   - title: ASME MACE
     subTitle: American Society of Mechanical Engineers
     thumb: img/opp/asme.png
-    description: "American Society of Mechanical Engineers is an American professional association that is spread over 150 countries. ASME MACE STUDENT SECTION was initiated in the year 2019 under the advisory of Dr.Bobin Cherian, Ass. Prof.Along with its Student Executive committee."
+    description: "Strongly adhering to its Multidisciplinary principles, the ASME MACE Students Section works to promote and encourage this 'Unity in Diversity' and provides students with opportunities to expose themselves to the latest technologies and hone their technical and interpersonal skills."
     details:
     - title: Co-Ordinators,
       icon: "fa fa-user-friends"
@@ -347,11 +352,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Santra Elizebeth Roy ( S7  Mechanical ) , Deepak Krishnan ( S7  ESE )"
+        data: "Santra Elizebeth Roy ( S7  Mechanical ) , Deepak Krishnan H ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 81398 93209"
+        data: "+91 81398 93209\n+91 86396 84217"
 
     links:
       - title: Instagam Page
@@ -368,11 +373,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Kailas Narayan ( S7 EEE )"
+        data: "Kailas Narayan ( S7 EEE ), Anna ( S7 Civil )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 81139 78940\n"
+        data: "+91 81139 78940\n+91 95266 45396\n"
 
     links:
       # - title: Facebook Page
@@ -416,11 +421,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Able Varghese ( S7  ECE ) , Binil V Jacob ( S7  ECE )"
+        data: "Able Varghese ( S7  ECE ) , Athul A Kumar ( S7  ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 83048 71107\n"
+        data: "+91 83048 71107\n+91 77361 29164\n"
 
     links:
       - title: Instagam Page
@@ -443,11 +448,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Felix Palatty ( S7  ECE ) , Deepak Krishnan H "
+        data: "Felix Palatty ( S7  ECE ) , Deepak Krishnan H ( S7 ECE )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 98469 44487\n"
+        data: "+91 98469 44487\n+91 86396 84217"
 
     links:
 
@@ -479,6 +484,28 @@ opportunities:
         link: "https://www.instagram.com/macedebateclub/"
         
 
+
+  # AISA - Update CoOrdinators, Contacts, Links
+  - title: AISA MACE
+    subTitle: Aerospace Interested Students Association
+    thumb: img/opp/aisamace.png
+    description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Akhiljith A (S7 Mechanical) , Gadha Premdas (S5 EEE)"
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 82813 17348\n+91 73568 16303"
+
+    links:
+      - title: Instagam Page
+        subTitle: "@aisa.mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/aisa.mace/"
+
+
   # MACE Shutter Club - Last Updated 7 September 2020
   - title: MACE Shutter Club
     subTitle: Photography Club
@@ -509,14 +536,14 @@ opportunities:
   - title: Film Club
     thumb: img/opp/film.png
     description: "The Film Club focuses on conducting film-related awareness among its members. The activity of the Film Club is to draw students towards active involvement in the Club through continued activities. The events are intended to expand their knowledge in the field of cinematography and associated science."
-    # details:
-    #   - title: Co-Ordinators
-    #     icon: "fa fa-user-friends"
-    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Sebin Thomas ( S7 Mechanical ), Gowtham Sidharth ( S7 Mechanical )"
         
-    #   - title: "Contact Details"
-    #     icon: "fa fa-phone-alt"
-    #     data: "+91 99887 76655\nieeemace@gmail.com"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 94966 63635 \n+91 94001 62894"
 
   
 
@@ -559,46 +586,6 @@ opportunities:
         icon: "fa fa-phone-alt"
         data: "+91 79948 53790"
 
-
-
-
-
-# AERO CLUB - Need Contact Details, Social Links
-  - title: Aero Club
-    thumb: img/opp/aeroclub.png
-    description: "AeroClub is among those clubs in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aero models, Planes and drones."
-    # details:
-    #   - title: Co-Ordinators
-    #     icon: "fa fa-user-friends"
-    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
-    #   - title: "Contact Details"
-    #     icon: "fa fa-phone-alt"
-    #     data: "+91 99887 76655\nieeemace@gmail.com"
-
-
-
-  # AISA - Update CoOrdinators, Contacts, Links
-  - title: AISA MACE
-    subTitle: Aerospace Interested Students Association
-    thumb: img/opp/aisamace.png
-    description: "AISA is founded with a vision to grow and nurture together in the field of space and its technologies, AISA opens its arms to all the space explorers out there. AISA focuses to help its members to build a career in the field of space technology by bringing in the right exposure to nurture their minds and skills and to achieve their dreams."
-    details:
-      - title: Co-Ordinators
-        icon: "fa fa-user-friends"
-        data: "Akhiljith A (S7 Mechanical) , Gadha Premdas (S5 EEE)"
-        
-      - title: "Contact Details"
-        icon: "fa fa-phone-alt"
-        data: "+91 82813 17348\n+91 73568 16303"
-
-    links:
-      - title: Instagam Page
-        subTitle: "@aisa.mace"
-        icon: "fab fa-instagram"
-        link: "https://www.instagram.com/aisa.mace/"
-
-
  
   # LITERARY AND ARTISANS CLUB - Need Co-Ordinators Contact , Links
   - title: Duende MACE
@@ -624,6 +611,26 @@ opportunities:
         subTitle: "@duende.mace"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/duende.mace/"
+
+
+
+
+
+
+
+# AERO CLUB - Need Contact Details, Social Links
+  - title: Aero Club
+    thumb: img/opp/aeroclub.png
+    description: "AeroClub is among those clubs in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aero models, Planes and drones."
+    # details:
+    #   - title: Co-Ordinators
+    #     icon: "fa fa-user-friends"
+    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+        
+    #   - title: "Contact Details"
+    #     icon: "fa fa-phone-alt"
+    #     data: "+91 99887 76655\nieeemace@gmail.com"
+
 
 
   # CRICKET TEAM - Updated 7 September 2020
