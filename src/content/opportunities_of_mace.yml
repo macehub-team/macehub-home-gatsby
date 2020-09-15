@@ -661,11 +661,11 @@ opportunities:
     details:
       - title: Contact Person
         icon: "fa fa-user-friends"
-        data: "Abdul Basith K ( S7  Mechanical )"
+        data: "Abdul Basith K ( S7  Mechanical ), Hari Krishnan ( S7 Electrical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 96057 59659\n"
+        data: "+91 96057 59659\n+91 85474 87326\n"
 
     links:
       - title: Facebook Page
