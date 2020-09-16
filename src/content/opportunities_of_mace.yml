@@ -640,11 +640,11 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Amar ( S7  Mechanical ) , Raseen ( S7  Civil )"
+        data: "Raseen ( S7  Civil ), Amar ( S7  Mechanical ) "
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 94476 92275\n"
+        data: "+91 90480 54429\n+91 94476 92275\n"
 
     links:
       - title: Instagam Page
@@ -684,21 +684,16 @@ opportunities:
   - title: Volley Ball Team
     thumb: img/opp/volleyball.png
     description: "The Volleyball team of MACE is a team that focuses on finding and building challenging people to compete in Volleyball Competiton for MACE. The team is renowned for the tournaments they have won."
-    # details:
-    #   - title: Co-Ordinators
-    #     icon: "fa fa-user-friends"
-    #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Sharooq Shahul ( S7 Civil ), Hafis Muhammed S ( S7 Mechanical )"
         
-    #   - title: "Contact Details"
-    #     icon: "fa fa-phone-alt"
-    #     data: "+91 99887 76655\nieeemace@gmail.com"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 94465 61575\n+91 95677 72674"
 
     links:
-      # - title: Official Website
-      #   subTitle: ieee.macehub.in
-      #   icon: "fa fa-globe-americas"
-      #   link: "https://ieee.macehub.in"
-
       - title: Instagam Page
         subTitle: "@macevolley"
         icon: "fab fa-instagram"
@@ -713,30 +708,46 @@ opportunities:
     details:
       - title: Contact Person
         icon: "fa fa-user-friends"
-        data: "Alex Varghese ( S7 Mechanical ),  Jyothis ( S7 Electrical )"
+        data: "Alex Varghese ( S7 Mechanical ),  Jyothis ( S7 Electrical ), Anjana T ( S7 Electrical )"
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 70128 27640"
+        data: "+91 70128 27640 ( Men's Team )\n+91 97449 12246 ( Women's Team )"
 
 
 
   # BADMINTON TEAM - Need CoOrdinators and Contacts
   - title: Badminton Club
     thumb: img/opp/badmintonteam.png
-    description: "The Badminton Club of MACE is very well known for the prestigious competitions they host and the vibrancy of students who are a  part of it and making the club proud by winning innumerable competitions."
-    # details:
-      # - title: Co-Ordinators
-      #   icon: "fa fa-user-friends"
-      #   data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
+    description: "The Badminton Club of MACE is very well known for the prestigious competitions they host and   the vibrancy of students who are a  part of it and making the club proud by winning innumerable competitions."
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Sharooq Shahul ( S7 Civil ) \nAswin Dinesh ( S5 Mechanical ) "
         
-      # - title: "Contact Details"
-      #   icon: "fa fa-phone-alt"
-      #   data: "+91 99887 76655\nieeemace@gmail.com"
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 94465 61575"
 
     links:
       - title: Instagam Page
         subTitle: "@macebadmintonclub"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macebadmintonclub/"
+
+
+        
+
+  # Athletics Team -- Need Description
+  - title: Athletics Team
+    thumb: img/opp/athletics.png
+    description: "--"
+    details:
+      - title: Co-Ordinators
+        icon: "fa fa-user-friends"
+        data: "Anjana T ( S7 Electrical ) \nAkash AA ( S7 Mechanical ) "
+        
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 97449 12246 \n+91 94460 77889"
 
