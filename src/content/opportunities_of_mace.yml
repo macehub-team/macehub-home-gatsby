@@ -246,6 +246,7 @@ opportunities:
     description: "Takshak is a national level tech fest annually conducted at MACE. It's one of the best tech fests in South India. More than 5000 students participate every year. The fest also has a roster of diverse events like workshops, competitions, talks and exhibitions."
     details:
       - title: "Contact Details"
+        icon: "fa fa-phone-alt"
         data: "takshak@mace.ac.in"
     links:
       - title: Official Website
@@ -561,9 +562,14 @@ opportunities:
         
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
-        data: "+91 92074 50391\n"
+        data: "+91 92074 50391\nnetx@mace.ac.in"
 
     links:
+      - title: Official Website
+        subTitle: netx.club
+        icon: "fa fa-globe-americas"
+        link: "http://netx.club/"
+        
       - title: Facebook Page
         subTitle: "@netxclub"
         icon: "fab fa-facebook"
