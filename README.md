@@ -68,3 +68,5 @@ A quick look at the top level files and directories inside `src/`.
 3.  **Creating New Pages** : Use gatsby api **`createPages`** or add react components to `src/pages/`. For additional information https://www.gatsbyjs.com/docs/creating-and-modifying-pages/
 
 4.  **Images and Static Files** : Place the files inside `./static`. 
+
+5.  **Updating Team Data** : The data are sourced from `src/content/team_data.yml`. 
