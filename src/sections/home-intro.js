@@ -33,7 +33,7 @@ export default function HomeIntro() {
             <QuickLink 
               label = "Macehub Faculty App"
               subLabel = "Android app to access details of MACE faculties. Exclusive for MACEians"
-              href="https://play.google.com/store/apps/details?id=com.macehub.faculty"
+              href="https://play.google.com/store/apps/details?id=org.macehub.faculty"
               thumb="img/quicklinks/h_app.png"
               newTab={true}
               thumbAlt="Macehub Faculty App Link"
