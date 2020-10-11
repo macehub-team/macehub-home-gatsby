@@ -21,7 +21,7 @@ team:
 
   - name: Melvin Thomas
     title: Core Member
-    photo: /img/team/melvin.jpg
+    photo: /img/team/melvinthomas.jpg
     batch: CSE 2K23
     linkedin: 'https://www.linkedin.com/in/melvin-thomas-dev/'
 
@@ -29,7 +29,7 @@ team:
     title: Core Member
     photo: /img/team/feny.jpg
     batch: CSE 2K21
-    linkedin: 'https://www.linkedin.com/in/feny-roy'
+    linkedin: 'https://www.linkedin.com/in/feny-roy' 
     
   - name: Roshan R
     title: Core Member
