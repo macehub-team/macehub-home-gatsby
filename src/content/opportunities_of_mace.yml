@@ -749,7 +749,7 @@ opportunities:
   # Athletics Team -- Need Description
   - title: Athletics Team
     thumb: img/opp/athletics.png
-    description: "--"
+    description: "The spirited Athletics team of MACE is well equipped with its strong atletes. They Train, guide and muold the next generation of athletes. Skill and Willingness is the only barrier between a student and the team. The team is well reputed by being the leaderboard of KTU Athletics Meet."
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
