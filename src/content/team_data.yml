@@ -37,6 +37,24 @@ team:
     batch: CSE 2K23
     linkedin: 'https://www.linkedin.com/in/roshan-r-268734156/'
 
+  - name: Neenu Chacko
+    title: Core Member
+    photo: /img/team/neenu.jpg
+    batch: CSE 2K22
+    linkedin: 'https://www.linkedin.com/in/neenu-chacko/'
+
+  - name: Sruthy M L
+    title: Core Member
+    photo: /img/team/sruthy.jpeg
+    batch: ECE 2K23
+    linkedin: 'https://www.linkedin.com/in/sruthyml/'
+
+  - name: Abhinav Unnikrishnan
+    title: Core Member
+    photo: /img/team/abhinav.jpeg
+    batch: CSE 2K24
+    linkedin: 'https://www.linkedin.com/in/roshan-r-268734156/'
+
 
   - name: Ameer Fayis
     title: Chief Contributor
