@@ -47,7 +47,7 @@ opportunities:
         icon: "fa fa-globe-americas"
         link: "https://iedc.macehub.in/"
 
-      - title: Linked In Page
+      - title: LinkedIn Page
         subTitle: "iedc-mace"
         icon: "fab fa-linkedin"
         link: "https://www.linkedin.com/company/iedc-mace"
@@ -154,6 +154,40 @@ opportunities:
       subTitle: "@asme_mace"
       icon: "fab fa-instagram"
       link: "https://www.instagram.com/asme_mace/?igshid=pij4ukbdnxo6"
+
+
+  
+
+
+  # CODECHEF MACE - Last Updated 9th July 2021
+  - title: CODECHEF MACE
+    subTitle: Code Chef chapter MACE
+    thumb: img/opp/codechef.png
+    description: "CodeChef is a competitive programming community to help programmers make it big in the world of algorithms, computer programming, and programming contests. CodeChef MACE Chapter is a student branch chapter of CodeChef with the same aim. The collegiate club aims to nourish the culture of competative programming within MACEians."
+    details:
+    - title: Co-Ordinators,
+      icon: "fa fa-user-friends"
+      data: "Ghinson K Varkey ( S4  EEE ) , Athul John ( S4  CSE )"
+      
+    - title: "Contact Details"
+      icon: "fa fa-phone-alt"
+      data: "+91 88488 03761"
+
+    links:
+    # - title: Facebook Page
+    #   # subTitle: asme.macehub.in
+    #   icon: "fab fa-facebook"
+    #   link: "https://www.facebook.com/CodeChef-MACE-Chapter-102610531673255/"
+
+    - title: Instagam Page
+      subTitle: "@codechef_mace_chapter"
+      icon: "fab fa-instagram"
+      link: "https://www.instagram.com/codechef_mace_chapter/"
+
+    - title: LinkedIn page
+      subTitle: "@codechefmacechapter"
+      icon: "fab fa-linkedin"
+      link: "https://www.linkedin.com/company/codechefmacechapter/"
 
 
   
