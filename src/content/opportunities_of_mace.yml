@@ -8,7 +8,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Feny Roy ( S8  CSE ) , Salih Yoosaf (S8  ECE), Govindaraman S ( S6 EEE )"
-        
+
       - title: Contact Details
         icon: "fa fa-phone-alt"
         data: |
@@ -26,7 +26,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "#link"
 
-
   # IEDC MACE - Need mail - Last Updated 7 September 2020
   - title: IEDC MACE
     subTitle: Innovation and Entrepreneurship Development Cell
@@ -35,8 +34,8 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Kiran Johns( S5 CSE ) , Manu Francis ( S5 CSE )"
-        
+        data: "Jerom Palimattom Tom (S5 MB) , Amala C Shaju (S5 MA)"
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 8281288526\n+91 7356543520\niedc@mace.ac.in"
@@ -57,7 +56,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/iedc_mace/"
 
-
   # NSS MACE - COMPLETE  - Last Updated 7 September 2020
   - title: NSS MACE
     subTitle: National Service Scheme
@@ -66,8 +64,8 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Devanand Ravindran, Bonia Benny, Anto Jose, Isabel Ann, Abhijith PS, Maria Thankachan, Bimin VM, Neema VP"
-        
+        data: "V Bharathkumar, Aswathy Chandran, Joseph Kurian Bobby, Sreedevi Prasad, Abdul Varis, Neenu Joy, Aswin Babu, Krishna"
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 93834 42178\n+91 94000 77802\nnss@mace.ac.in"
@@ -83,16 +81,15 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/nss.mace"
 
-
   # THE MACE POST - Need mail
   - title: THE MACE POST
     thumb: img/opp/tmp.png
-    description: "The MACEPOST is an ambitious initiative taken up by the students of MACE with two main aims in mind. One is to bring in \"Opportunities\" and other to spread out \"Information\" that is available in MACE. "
+    description: 'The MACEPOST is an ambitious initiative taken up by the students of MACE with two main aims in mind. One is to bring in "Opportunities" and other to spread out "Information" that is available in MACE. '
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Chrisle Joseph Charls ( S7  Mechanical ) , Shibija A ( S7  ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 70121 53502"
@@ -107,8 +104,6 @@ opportunities:
         subTitle: "@themacepost"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/themacepost"
-  
-
 
   # SAE MACE - Last Updated 14 September 2020
   - title: SAE MACE
@@ -119,7 +114,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Akhil Sreekumar ( S7 Mechanical ), Rohith Krishnan ( S7 Mechanical ) "
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 82898 79791\n+91 9446315366\n saemace@zohomail.in"
@@ -136,63 +131,54 @@ opportunities:
     thumb: img/opp/asme.png
     description: "Strongly adhering to its Multidisciplinary principles, the ASME MACE Students Section works to promote and encourage this 'Unity in Diversity' and provides students with opportunities to expose themselves to the latest technologies and hone their technical and interpersonal skills."
     details:
-    - title: Co-Ordinators,
-      icon: "fa fa-user-friends"
-      data: "Ashin V Nazeer ( S5  Mechanical ) , Twinkle Abraham ( S3  Mechanical )"
-      
-    - title: "Contact Details"
-      icon: "fa fa-phone-alt"
-      data: "+91 94476 46104\nasme@mace.ac.in"
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Christy Mamman"
+
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 94476 46104\nasme@mace.ac.in"
 
     links:
-    - title: Official Website
-      subTitle: asme.macehub.in
-      icon: "fa fa-globe-americas"
-      link: "https://asme.macehub.in/"
+      - title: Official Website
+        subTitle: asme.macehub.in
+        icon: "fa fa-globe-americas"
+        link: "https://asme.macehub.in/"
 
-    - title: Instagam Page
-      subTitle: "@asme_mace"
-      icon: "fab fa-instagram"
-      link: "https://www.instagram.com/asme_mace/?igshid=pij4ukbdnxo6"
-
-
-  
-
+      - title: Instagam Page
+        subTitle: "@asme_mace"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/asme_mace/?igshid=pij4ukbdnxo6"
 
   # CODECHEF MACE - Last Updated 9th July 2021
-  - title: CODECHEF MACE
-    subTitle: Code Chef chapter MACE
-    thumb: img/opp/codechef.png
-    description: "CodeChef is a competitive programming community to help programmers make it big in the world of algorithms, computer programming, and programming contests. CodeChef MACE Chapter is a student branch chapter of CodeChef with the same aim. The collegiate club aims to nourish the culture of competative programming within MACEians."
+  - title: ENCIDE MACE
+    subTitle: Coding Community of MACE
+    thumb: img/opp/encide.png
+    description: "Encide Mace is one of the emerging enthusiastic coding clubs of MACE. Here students with different interests such as Competitive programming,App development, Web Development,Machine Learning,etc. gather up for collaborative learning. ENCIDE do pretty much everything and anything to enhance member's coding skills."
     details:
-    - title: Co-Ordinators,
-      icon: "fa fa-user-friends"
-      data: "Ghinson K Varkey ( S4  EEE ) , Athul John ( S4  CSE )"
-      
-    - title: "Contact Details"
-      icon: "fa fa-phone-alt"
-      data: "+91 88488 03761"
+      - title: Co-Ordinators,
+        icon: "fa fa-user-friends"
+        data: "Allen Binu(S5 MB)"
+
+      - title: "Contact Details"
+        icon: "fa fa-phone-alt"
+        data: "+91 88488 03761"
 
     links:
-    # - title: Facebook Page
-    #   # subTitle: asme.macehub.in
-    #   icon: "fab fa-facebook"
-    #   link: "https://www.facebook.com/CodeChef-MACE-Chapter-102610531673255/"
+      # - title: Facebook Page
+      #   # subTitle: asme.macehub.in
+      #   icon: "fab fa-facebook"
+      #   link: "https://www.facebook.com/CodeChef-MACE-Chapter-102610531673255/"
 
-    - title: Instagam Page
-      subTitle: "@codechef_mace_chapter"
-      icon: "fab fa-instagram"
-      link: "https://www.instagram.com/codechef_mace_chapter/"
+      - title: Instagam Page
+        subTitle: "@encide_official"
+        icon: "fab fa-instagram"
+        link: "https://www.instagram.com/encide_official?igshid=MzNlNGNkZWQ4Mg%3D%3D"
 
-    - title: LinkedIn page
-      subTitle: "@codechefmacechapter"
-      icon: "fab fa-linkedin"
-      link: "https://www.linkedin.com/company/codechefmacechapter/"
-
-
-  
-
-
+      # - title: LinkedIn page
+      #   subTitle: "@codechefmacechapter"
+      #   icon: "fab fa-linkedin"
+      #   link: "https://www.linkedin.com/company/codechefmacechapter/"
 
   # DOM - Last Updated 7 September 2020
   - title: Designers of MACE
@@ -202,19 +188,16 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Amina Nizam ( S7  CSE ) , Jovel Shaju ( S7  CSE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 94001 91220\n"
-
 
     links:
       - title: Instagam Page
         subTitle: "@designersofmace"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/designersofmace"
-
-
 
   # DSC Mace - Last Updated 7 September 2020
   - title: DSC MACE
@@ -225,21 +208,16 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Jestin Roy ( S5  EEE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 99113 43474\n"
-
-
-    
 
     links:
       - title: Website
         subTitle: dsc.community.dev
         icon: "fa fa-globe-americas"
         link: "https://dsc.community.dev/mar-athanasius-college-of-engineering/"
-
-
 
   # MACE MUN - Last Updated 14 September 2020
   - title: MACE MUN
@@ -249,8 +227,8 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Kavith Viswanath ( S7  Mechanical ) , Akhil Sreekumar ( S7  Mechanical )"
-        
+        data: "Alan Saji Nadackel ( S7  Mechanical ) , Diya Biju ( S5 CSE )"
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 99618 19848\nmacemun@gmail.com"
@@ -271,8 +249,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macemun"
 
-
-  
   # TAKSHAK - Last Updated 7 September 2020
   - title: Takshak
     subTitle: Tech Fest
@@ -293,10 +269,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://instagram.com/takshak19"
 
-
-
-
-
   # SANSKRITI  - Last Updated 7 September 2020
   - title: Sankriti
     subTitle: Arts Fest
@@ -314,8 +286,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/sanskriti.mace/"
 
-
-
   # TEDxMACE - Last Updated 7 September 2020
   - title: TEDxMACE
     thumb: img/opp/tedx.png
@@ -324,7 +294,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Davis Jacob Thomas ( S7  Mechanical ) , Merin Varkeey ( S7 Mechanical )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 79029 26321\n+91 91882 27356\ntedxmace@gmail.com"
@@ -340,9 +310,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/tedxmace/"
 
-  
-
-
   # TNP - Last Updated 7 September 2020
   - title: TNP MACE
     subTitle: Training and Placement Cell
@@ -352,7 +319,7 @@ opportunities:
       - title: Staff in Charge
         icon: "fa fa-user-friends"
         data: "Prof. Biju Skaria"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: " +91 9447294680\n +91 9544744559\nplacements@mace.ac.in"
@@ -363,9 +330,6 @@ opportunities:
         icon: "fa fa-globe-americas"
         link: "http://tnpmace.com/"
 
-
-
-
   # FAB LAB - Last Updated 7 September 2020
   - title: Fab Lab
     subTitle: Fabrication Lab
@@ -375,12 +339,11 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Binii V Jacob ( S7  ECE ) , Aswinraj K ( S7  ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 80865 35843\n"
 
-  
   # DIVAAT - Last Updated 7 September 2020
   - title: Divaat MACE
     subTitle: Fashion Club
@@ -390,7 +353,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Santra Elizebeth Roy ( S7  Mechanical ) , Deepak Krishnan H ( S7  ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 81398 93209\n+91 86396 84217"
@@ -401,8 +364,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/divaat_mace/"
 
-
-  
   # Music Club - COMPLETE - Last Updated Sept 11th 2020
   - title: Music Club
     thumb: img/opp/musicclub.png
@@ -411,7 +372,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Kailas Narayan ( S7 EEE ), Anna ( S7 Civil )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 81139 78940\n+91 95266 45396\n"
@@ -427,8 +388,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/mace_music_club/"
 
-
-
   # Dance Club - Contact Needed
   - title: MACE Dance Club (MADc)
     thumb: img/opp/madc.png
@@ -437,20 +396,17 @@ opportunities:
     #   - title: Co-Ordinators
     #     icon: "fa fa-user-friends"
     #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
+
     #   - title: "Contact Details"
     #     icon: "fa fa-phone-alt"
     #     data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-
       - title: Instagam Page
         subTitle: "@mace_dance_club"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/mace_dance_club/"
 
-
-  
   # IOT Club - Last Updated 7 September 2020
   - title: IoT Club
     thumb: img/opp/iotmace.png
@@ -459,7 +415,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Able Varghese ( S7  ECE ) , Athul A Kumar ( S7  ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 83048 71107\n+91 77361 29164\n"
@@ -475,9 +431,6 @@ opportunities:
         icon: "fab fa-facebook"
         link: "https://www.facebook.com/IoTMACE/"
 
-
-
-
   # Quiz Club - Last Updated 7 September 2020
   - title: Quiz Club
     thumb: img/opp/quiz.png
@@ -486,21 +439,17 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Felix Palatty ( S7  ECE ) , Deepak Krishnan H ( S7 ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 98469 44487\n+91 86396 84217"
 
     links:
-
       - title: Instagam Page
         subTitle: "@macequizclub"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macequizclub/"
 
-
-
-  
   # Debate Club - Last Updated 7 September 2020
   - title: Debate Club
     thumb: img/opp/debateclub.png
@@ -509,7 +458,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Kavith Viswanath ( S7  Mechanical ) , Christo George ( S7 Civil )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 99618 19848\n+91 99955 67971\n"
@@ -519,8 +468,6 @@ opportunities:
         subTitle: "@macedebateclub"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macedebateclub/"
-        
-
 
   # AISA - Update CoOrdinators, Contacts, Links
   - title: AISA MACE
@@ -530,8 +477,8 @@ opportunities:
     details:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
-        data: "Akhiljith A (S7 Mechanical) , Gadha Premdas (S5 EEE)"
-        
+        data: "Thomas J Kumabalath (S7 DS) , Harsha Anand (S5 DS)"
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 82813 17348\n+91 73568 16303"
@@ -542,7 +489,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/aisa.mace/"
 
-
   # MACE Shutter Club - Last Updated 7 September 2020
   - title: MACE Shutter Club
     subTitle: Photography Club
@@ -552,7 +498,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Akshay Kasper ( S7  ECE ) , Ajay Saji ( S7  EEE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 81578 12758\n"
@@ -568,7 +514,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/maceshutterclub/"
 
-  
   # Film Club - Need CoOrdinators , Contact
   - title: Film Club
     thumb: img/opp/film.png
@@ -577,13 +522,10 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Sebin Thomas ( S7 Mechanical ), Gowtham Sidharth ( S7 Mechanical )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 94966 63635 \n+91 94001 62894"
-
-  
-
 
   # Netx Club - Last Updated 7 September 2020
   - title: NetX Club
@@ -593,7 +535,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Benil Jose ( S5  CSE ) , Michelle Jacob ( S3  ECE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 92074 50391\nnetx@mace.ac.in"
@@ -603,7 +545,7 @@ opportunities:
         subTitle: netx.club
         icon: "fa fa-globe-americas"
         link: "http://netx.club/"
-        
+
       - title: Facebook Page
         subTitle: "@netxclub"
         icon: "fab fa-facebook"
@@ -614,8 +556,7 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/netxclub/"
 
-
-# CyclingClub - Last Updated 7 September 2020
+  # CyclingClub - Last Updated 7 September 2020
   - title: Cycling Club
     thumb: img/opp/cyclingclub.png
     description: "The cycling club is a society for cyclists. Here they plan cycling trips around the places. The green future with healthy mates is one of the visions put forward by the club. Having started a few years back, there are many aspirations for its members."
@@ -623,12 +564,11 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Mohammed Muhsin ( S7  CSE )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 79948 53790"
 
- 
   # LITERARY AND ARTISANS CLUB - Need Co-Ordinators Contact , Links
   - title: Duende MACE
     subTitle: Literary & Artisans Club
@@ -638,29 +578,23 @@ opportunities:
     #   - title: Co-Ordinators
     #     icon: "fa fa-user-friends"
     #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
+
     #   - title: "Contact Details"
     #     icon: "fa fa-phone-alt"
     #     data: "+91 99887 76655\nieeemace@gmail.com"
 
     links:
-    #   - title: Official Website
-    #     subTitle: ieee.macehub.in
-    #     icon: "fa fa-globe-americas"
-    #     link: "https://ieee.macehub.in"
+      #   - title: Official Website
+      #     subTitle: ieee.macehub.in
+      #     icon: "fa fa-globe-americas"
+      #     link: "https://ieee.macehub.in"
 
       - title: Instagam Page
         subTitle: "@duende.mace"
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/duende.mace/"
 
-
-
-
-
-
-
-# AERO CLUB - Need Contact Details, Social Links
+  # AERO CLUB - Need Contact Details, Social Links
   - title: Aero Club
     thumb: img/opp/aeroclub.png
     description: "AeroClub is among those clubs in MACE that is founded with a very clear and distinct aim. The purpose of the club is to promote activities that help students develop Aero models, Planes and drones."
@@ -668,12 +602,10 @@ opportunities:
     #   - title: Co-Ordinators
     #     icon: "fa fa-user-friends"
     #     data: "Feny Roy ( S7  CSE ) , Feny Roy ( S7  CSE )"
-        
+
     #   - title: "Contact Details"
     #     icon: "fa fa-phone-alt"
     #     data: "+91 99887 76655\nieeemace@gmail.com"
-
-
 
   # CRICKET TEAM - Updated 7 September 2020
   - title: MACE Cricket Team
@@ -683,7 +615,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Raseen ( S7  Civil ), Amar ( S7  Mechanical ) "
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 90480 54429\n+91 94476 92275\n"
@@ -694,8 +626,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/mace_cricket_team/"
 
-
-
   # FOOTBALL TEAM - Last Updated 7 September 2020
   - title: MACE Football Team
     thumb: img/opp/football.png
@@ -704,7 +634,7 @@ opportunities:
       - title: Contact Person
         icon: "fa fa-user-friends"
         data: "Abdul Basith K ( S7  Mechanical ), Hari Krishnan ( S7 Electrical )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 96057 59659\n+91 85474 87326\n"
@@ -720,9 +650,7 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/mace_footballteam/"
 
-
-
-# VOLLEY BALL TEAM - Need CoOrdinators and Number
+  # VOLLEY BALL TEAM - Need CoOrdinators and Number
   - title: Volley Ball Team
     thumb: img/opp/volleyball.png
     description: "The Volleyball team of MACE is a team that focuses on finding and building challenging people to compete in Volleyball Competiton for MACE. The team is renowned for the tournaments they have won."
@@ -730,7 +658,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Sharooq Shahul ( S7 Civil ), Hafis Muhammed S ( S7 Mechanical ), Sarika Manoj ( S7 Civil ), Saira ( S7 Electrical )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 94465 61575 ( Men's Team )\n+91 95677 72674\n+91 95442 70055 ( Women's Team )\n+91 94003 33022"
@@ -741,8 +669,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macevolley/"
 
-
-
   # BASKET BALL TEAM  - Updated 14 September 2020
   - title: Basket Ball Team
     thumb: img/opp/basketball.png
@@ -751,12 +677,10 @@ opportunities:
       - title: Contact Person
         icon: "fa fa-user-friends"
         data: "Alex Varghese ( S7 Mechanical ),  Jyothis ( S7 Electrical ), Anjana T ( S7 Electrical )"
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 70128 27640 ( Men's Team )\n+91 97449 12246 ( Women's Team )"
-
-
 
   # BADMINTON TEAM - Need CoOrdinators and Contacts
   - title: Badminton Club
@@ -766,7 +690,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Sharooq Shahul ( S7 Civil ) \nAswin Dinesh ( S5 Mechanical ) "
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 94465 61575"
@@ -777,9 +701,6 @@ opportunities:
         icon: "fab fa-instagram"
         link: "https://www.instagram.com/macebadmintonclub/"
 
-
-        
-
   # Athletics Team -- Need Description
   - title: Athletics Team
     thumb: img/opp/athletics.png
@@ -788,8 +709,7 @@ opportunities:
       - title: Co-Ordinators
         icon: "fa fa-user-friends"
         data: "Anjana T ( S7 Electrical ) \nAkash AA ( S7 Mechanical ) "
-        
+
       - title: "Contact Details"
         icon: "fa fa-phone-alt"
         data: "+91 97449 12246 \n+91 94460 77889"
-
