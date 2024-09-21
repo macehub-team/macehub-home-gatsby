@@ -81,3 +81,17 @@ team:
     photo: /img/team/madhav.jpg
     batch: CSE 2K21
     linkedin: 'https://www.linkedin.com/in/madhav-sunil-1909431a1'
+
+
+  - name: Jithin Reji
+    title: Core Member
+    photo: /img/team/jithin.jpg
+    batch: CSE 2K26
+    linkedin: 'https://www.linkedin.com/in/jithin-reji-630287254'
+
+
+  - name: Colin Jimmy
+    title: Core Member
+    photo: /img/team/colin.jpg
+    batch: CSE 2K26
+    linkedin: 'https://www.linkedin.com/in/colin-jimmy-0a5274257'
